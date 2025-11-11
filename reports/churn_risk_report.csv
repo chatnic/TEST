@@ -1,0 +1,1001 @@
+customer_id,churn_probability,predicted_churn,actual_churn,risk_category,institution_type,region,product_tier,revenue_monthly
+INST_04063,0.8573702572365569,1,1,Critical Risk,Bank,North America,Professional,8242.98
+INST_04615,0.8565000743707375,1,1,Critical Risk,Bank,Latin America,Enterprise,711.39
+INST_04936,0.8361615967684785,1,1,Critical Risk,Payment Processor,Europe,Professional,1819.23
+INST_04384,0.8278769413462683,1,1,Critical Risk,Payment Processor,Europe,Enterprise,2670.15
+INST_04283,0.8131216768681006,1,1,Critical Risk,Bank,North America,Professional,1881.59
+INST_04120,0.8111380915215427,1,1,Critical Risk,Bank,Latin America,Professional,14811.67
+INST_04681,0.8063640010204374,1,1,Critical Risk,Bank,North America,Basic,12269.54
+INST_04361,0.7984158819851231,1,1,Critical Risk,Investment Firm,Asia Pacific,Professional,1129.27
+INST_04778,0.7912668312135565,1,1,Critical Risk,Bank,North America,Professional,4249.4
+INST_04012,0.790855888358918,1,0,Critical Risk,Investment Firm,North America,Basic,1946.32
+INST_04746,0.7853444356700963,1,1,Critical Risk,Bank,Asia Pacific,Professional,18710.3
+INST_04519,0.777765975002566,1,1,Critical Risk,Bank,North America,Professional,109168.45
+INST_04349,0.7763756220610726,1,1,Critical Risk,Investment Firm,Latin America,Professional,3899.42
+INST_04165,0.7729678722798486,1,1,Critical Risk,Credit Union,Asia Pacific,Professional,10906.51
+INST_04260,0.7699505068384902,1,1,Critical Risk,Bank,Europe,Professional,5417.74
+INST_04202,0.7649401984046453,1,1,Critical Risk,Bank,Europe,Professional,2254.36
+INST_04479,0.7595245650930891,1,0,Critical Risk,Investment Firm,North America,Basic,46815.7
+INST_04369,0.7576772235462463,1,1,Critical Risk,Bank,Europe,Professional,4889.98
+INST_04853,0.7573013997931868,1,0,Critical Risk,Bank,Europe,Basic,3221.91
+INST_04514,0.7524620129951312,1,1,Critical Risk,Investment Firm,Europe,Professional,2075.69
+INST_04622,0.7514278820687903,1,1,Critical Risk,Bank,North America,Professional,1230.88
+INST_04203,0.7456265663597142,1,0,Critical Risk,Payment Processor,Europe,Enterprise,2377.25
+INST_04891,0.7411850660281434,1,1,Critical Risk,Bank,North America,Professional,1072.77
+INST_04297,0.7372657685002609,1,1,Critical Risk,Bank,Asia Pacific,Basic,45358.92
+INST_04782,0.7360228353696288,1,1,Critical Risk,Investment Firm,Asia Pacific,Enterprise,5905.8
+INST_04039,0.7357897439709585,1,0,Critical Risk,Investment Firm,North America,Basic,11188.95
+INST_04786,0.73267197032363,1,1,Critical Risk,Payment Processor,North America,Professional,500.0
+INST_04598,0.7325461956603384,1,1,Critical Risk,Credit Union,North America,Professional,15912.47
+INST_04914,0.7318810844523143,1,1,Critical Risk,Bank,Europe,Professional,80871.46
+INST_04923,0.7314775489185896,1,0,Critical Risk,Payment Processor,Europe,Professional,2295.51
+INST_04054,0.7304681542189937,1,0,Critical Risk,Insurance Company,Europe,Basic,36598.2
+INST_04303,0.7274241428379571,1,1,Critical Risk,Investment Firm,Europe,Basic,4268.19
+INST_04435,0.7264330965305598,1,0,Critical Risk,Bank,North America,Professional,5906.96
+INST_04872,0.720742942130418,1,0,Critical Risk,Bank,North America,Professional,26405.66
+INST_04246,0.7179030891603084,1,1,Critical Risk,Bank,Europe,Basic,4800.54
+INST_04295,0.7101775653838845,1,1,Critical Risk,Bank,Latin America,Professional,9420.89
+INST_04481,0.7098940345251664,1,0,Critical Risk,Credit Union,North America,Professional,2228.08
+INST_04385,0.7090436864951043,1,0,Critical Risk,Investment Firm,Latin America,Enterprise,114450.55
+INST_04319,0.7072884703003425,1,0,Critical Risk,Credit Union,Asia Pacific,Basic,760.4
+INST_04745,0.7018216934189344,1,0,Critical Risk,Bank,Asia Pacific,Professional,25957.94
+INST_04831,0.6991259160139814,1,0,High Risk,Insurance Company,Latin America,Professional,3596.86
+INST_04744,0.6990233737159554,1,0,High Risk,Bank,North America,Basic,9031.87
+INST_04579,0.6964141487253401,1,0,High Risk,Investment Firm,North America,Basic,19149.7
+INST_04327,0.6956563883150458,1,1,High Risk,Payment Processor,North America,Professional,2697.06
+INST_04078,0.6954577762809723,1,1,High Risk,Insurance Company,Asia Pacific,Professional,47729.2
+INST_04727,0.6952493915085598,1,1,High Risk,Insurance Company,North America,Professional,8726.81
+INST_04013,0.6940483113162834,1,1,High Risk,Bank,North America,Professional,2020.76
+INST_04409,0.6933342475101459,1,1,High Risk,Investment Firm,Europe,Professional,22735.65
+INST_04773,0.6932746340288696,1,1,High Risk,Insurance Company,Europe,Professional,6702.73
+INST_04003,0.691276962291075,1,1,High Risk,Bank,Europe,Professional,6061.66
+INST_04094,0.689404280516449,1,1,High Risk,Bank,Europe,Professional,38780.63
+INST_04814,0.6879888116885033,1,1,High Risk,Insurance Company,Middle East,Professional,27171.79
+INST_04200,0.6847405228112206,1,0,High Risk,Insurance Company,Latin America,Professional,1228.54
+INST_04779,0.6841313797257222,1,1,High Risk,Bank,Europe,Enterprise,5334.71
+INST_04578,0.6830501071309004,1,1,High Risk,Payment Processor,North America,Basic,6470.63
+INST_04941,0.6825674722517041,1,1,High Risk,Credit Union,North America,Basic,3628.55
+INST_04009,0.6820342727806645,1,1,High Risk,Bank,Europe,Enterprise,2158.9
+INST_04892,0.6766329648913808,1,1,High Risk,Investment Firm,Asia Pacific,Basic,14631.22
+INST_04599,0.6739426033936272,1,0,High Risk,Bank,North America,Enterprise,3628.09
+INST_04456,0.6738018983019998,1,0,High Risk,Investment Firm,North America,Basic,4206.82
+INST_04658,0.6735093663936276,1,1,High Risk,Bank,Europe,Basic,10524.36
+INST_04852,0.6723213330122221,1,1,High Risk,Insurance Company,North America,Professional,4661.87
+INST_04451,0.6702040006998712,1,1,High Risk,Investment Firm,Europe,Basic,11732.41
+INST_04031,0.6683751836783994,1,0,High Risk,Bank,Asia Pacific,Enterprise,5202.84
+INST_04556,0.6657794537771062,1,0,High Risk,Investment Firm,North America,Professional,2717.21
+INST_04231,0.664378850828694,1,1,High Risk,Investment Firm,North America,Professional,5629.94
+INST_04750,0.6635990025724161,1,1,High Risk,Bank,North America,Basic,1043.99
+INST_04908,0.6632034192482789,1,0,High Risk,Insurance Company,North America,Basic,1991.99
+INST_04774,0.6629308913550589,1,1,High Risk,Bank,Asia Pacific,Enterprise,2053.25
+INST_04195,0.6617791674336041,1,0,High Risk,Bank,North America,Basic,1269.35
+INST_04163,0.661691653595134,1,1,High Risk,Credit Union,North America,Basic,31011.61
+INST_04038,0.6572407650188145,1,1,High Risk,Investment Firm,Asia Pacific,Professional,1808.73
+INST_04248,0.6556137864233978,1,1,High Risk,Investment Firm,North America,Professional,69463.78
+INST_04343,0.6548192312424312,1,1,High Risk,Insurance Company,Asia Pacific,Enterprise,13928.25
+INST_04366,0.653998219285411,1,1,High Risk,Bank,Europe,Enterprise,4991.94
+INST_04607,0.6532742023431091,1,0,High Risk,Bank,Europe,Professional,11270.09
+INST_04193,0.6530139347529113,1,0,High Risk,Insurance Company,Asia Pacific,Enterprise,6371.14
+INST_04336,0.6523833787397071,1,1,High Risk,Investment Firm,Europe,Professional,10442.18
+INST_04422,0.6506850249942352,1,0,High Risk,Investment Firm,Europe,Professional,22736.06
+INST_04694,0.6506572040256118,1,1,High Risk,Credit Union,Europe,Basic,12113.98
+INST_04899,0.6499695080204284,1,1,High Risk,Payment Processor,North America,Professional,33084.58
+INST_04472,0.6475461319171782,1,1,High Risk,Bank,Latin America,Basic,13149.45
+INST_04985,0.646229941292853,1,0,High Risk,Bank,Europe,Professional,2263.46
+INST_04133,0.6418299510836293,1,1,High Risk,Investment Firm,North America,Professional,44333.85
+INST_04324,0.6413803523766941,1,0,High Risk,Insurance Company,North America,Enterprise,5842.66
+INST_04735,0.6395249950798095,1,0,High Risk,Bank,Europe,Basic,38903.06
+INST_04851,0.6391828818352973,1,1,High Risk,Credit Union,Middle East,Professional,9920.96
+INST_04771,0.6375590009700297,1,0,High Risk,Credit Union,North America,Enterprise,1946.15
+INST_04107,0.6373835734495741,1,0,High Risk,Bank,Asia Pacific,Basic,3373.0
+INST_04520,0.6349021739900708,1,0,High Risk,Payment Processor,North America,Professional,3062.62
+INST_04383,0.6319594848160933,1,1,High Risk,Investment Firm,North America,Basic,6441.14
+INST_04515,0.6315514713925664,1,0,High Risk,Credit Union,North America,Basic,8232.08
+INST_04631,0.6281064706433164,1,1,High Risk,Bank,Asia Pacific,Professional,10318.26
+INST_04404,0.627687536796294,1,1,High Risk,Payment Processor,North America,Professional,7398.31
+INST_04227,0.6274527613750633,1,0,High Risk,Investment Firm,Latin America,Basic,8383.0
+INST_04275,0.6249407188324312,1,0,High Risk,Investment Firm,North America,Basic,5715.85
+INST_04035,0.6231876165873558,1,1,High Risk,Payment Processor,Asia Pacific,Professional,29722.35
+INST_04005,0.6220313094686186,1,1,High Risk,Bank,North America,Enterprise,11480.72
+INST_04371,0.6192170877169022,1,1,High Risk,Credit Union,North America,Professional,10640.01
+INST_04802,0.6165913993552403,1,1,High Risk,Payment Processor,North America,Enterprise,3796.03
+INST_04377,0.6146088438906244,1,1,High Risk,Insurance Company,Europe,Professional,1029.78
+INST_04641,0.6111551712193793,1,1,High Risk,Bank,Europe,Professional,4489.48
+INST_04731,0.6074207302721069,1,0,High Risk,Bank,Asia Pacific,Basic,5368.69
+INST_04399,0.6072539451864605,1,1,High Risk,Bank,North America,Basic,790.81
+INST_04655,0.5997012313999839,1,1,High Risk,Bank,Europe,Enterprise,58205.41
+INST_04811,0.5994585367633164,1,1,High Risk,Payment Processor,Asia Pacific,Professional,8561.84
+INST_04358,0.5992204490230499,1,1,High Risk,Investment Firm,Latin America,Enterprise,823.31
+INST_04354,0.5979671198040196,1,0,High Risk,Credit Union,North America,Basic,4769.23
+INST_04907,0.5978842914788942,1,0,High Risk,Bank,North America,Professional,1805.82
+INST_04028,0.5976005002428402,1,1,High Risk,Insurance Company,Middle East,Basic,915.94
+INST_04754,0.5970727750792001,1,1,High Risk,Payment Processor,North America,Professional,25373.4
+INST_04700,0.5967166852264028,1,0,High Risk,Bank,Asia Pacific,Enterprise,66365.27
+INST_04729,0.5962425573469844,1,0,High Risk,Bank,North America,Enterprise,17735.37
+INST_04103,0.5947220122195283,1,1,High Risk,Bank,Asia Pacific,Professional,11784.21
+INST_04277,0.5930111594164164,1,1,High Risk,Bank,Europe,Professional,131922.83
+INST_04495,0.5927617568516483,1,1,High Risk,Investment Firm,Europe,Professional,1792.73
+INST_04427,0.5926756721065827,1,1,High Risk,Bank,Asia Pacific,Basic,7764.54
+INST_04267,0.591482500047507,1,1,High Risk,Bank,North America,Basic,9805.51
+INST_04223,0.5894194333711126,1,1,High Risk,Insurance Company,North America,Professional,26356.67
+INST_04510,0.5891841261955895,1,1,High Risk,Bank,Europe,Enterprise,3094.82
+INST_04854,0.5883048122945529,1,1,High Risk,Investment Firm,Latin America,Professional,6205.14
+INST_04207,0.5881315056109022,1,0,High Risk,Credit Union,Asia Pacific,Enterprise,1692.25
+INST_04045,0.5880397813039309,1,0,High Risk,Credit Union,North America,Professional,4724.84
+INST_04162,0.5876609493099128,1,1,High Risk,Credit Union,Asia Pacific,Professional,1755.73
+INST_04480,0.5870821443239922,1,1,High Risk,Bank,North America,Basic,1432.48
+INST_04705,0.5868090378707538,1,0,High Risk,Credit Union,North America,Professional,52650.03
+INST_04034,0.5863521192877701,1,1,High Risk,Bank,Europe,Professional,2384.13
+INST_04379,0.5848724048213896,1,1,High Risk,Credit Union,North America,Basic,22352.26
+INST_04273,0.5839579815125002,1,1,High Risk,Credit Union,North America,Professional,601.42
+INST_04206,0.5829828417798661,1,1,High Risk,Investment Firm,Europe,Professional,1370.48
+INST_04141,0.5829237937934404,1,1,High Risk,Bank,North America,Professional,4927.64
+INST_04421,0.5820276273348352,1,0,High Risk,Payment Processor,Europe,Professional,6025.99
+INST_04532,0.5818617901451787,1,1,High Risk,Bank,North America,Basic,7486.34
+INST_04630,0.5816002351360586,1,0,High Risk,Bank,North America,Enterprise,90377.98
+INST_04758,0.5803566577022596,1,1,High Risk,Credit Union,North America,Professional,15619.32
+INST_04686,0.5786494996011882,1,0,High Risk,Bank,North America,Professional,8119.52
+INST_04274,0.5770700677426681,1,0,High Risk,Investment Firm,Asia Pacific,Basic,6897.1
+INST_04657,0.5748623030181956,1,1,High Risk,Credit Union,North America,Professional,1380.34
+INST_04418,0.5741778586699049,1,0,High Risk,Bank,Europe,Enterprise,6493.15
+INST_04470,0.5732876643586797,1,0,High Risk,Payment Processor,Europe,Enterprise,500.0
+INST_04743,0.5729606413399337,1,1,High Risk,Payment Processor,Asia Pacific,Professional,3120.62
+INST_04158,0.5726456910560725,1,0,High Risk,Payment Processor,Asia Pacific,Enterprise,639.18
+INST_04372,0.5724058189148774,1,1,High Risk,Bank,North America,Professional,808.88
+INST_04265,0.5719493179936965,1,1,High Risk,Credit Union,North America,Basic,826.8
+INST_04216,0.5687302215498379,1,1,High Risk,Bank,Europe,Basic,286570.16
+INST_04285,0.5671801941977286,1,0,High Risk,Investment Firm,Asia Pacific,Professional,4434.21
+INST_04405,0.5649989751969727,1,0,High Risk,Investment Firm,Europe,Basic,500.0
+INST_04813,0.5618186770755231,1,0,High Risk,Credit Union,Asia Pacific,Basic,1949.31
+INST_04823,0.5614089977351117,1,0,High Risk,Credit Union,North America,Basic,3437.3
+INST_04706,0.5604786947726459,1,1,High Risk,Insurance Company,North America,Professional,10035.73
+INST_04989,0.5601296065482915,1,1,High Risk,Insurance Company,Asia Pacific,Enterprise,3406.1
+INST_04210,0.5588678842661247,1,1,High Risk,Bank,Latin America,Basic,4466.44
+INST_04905,0.5574114757061823,1,1,High Risk,Bank,North America,Enterprise,1274.29
+INST_04971,0.5570582539849598,1,1,High Risk,Payment Processor,Middle East,Professional,3605.77
+INST_04394,0.5555417678155561,1,1,High Risk,Payment Processor,North America,Professional,4609.61
+INST_04255,0.5551990510560741,1,1,High Risk,Investment Firm,North America,Enterprise,2950.19
+INST_04065,0.5534822089092404,1,1,High Risk,Bank,Europe,Enterprise,3279.46
+INST_04468,0.5533565306274179,1,1,High Risk,Payment Processor,Europe,Professional,656.78
+INST_04608,0.5532505355481905,1,1,High Risk,Payment Processor,North America,Professional,3160.39
+INST_04289,0.5532006491167604,1,1,High Risk,Insurance Company,North America,Basic,7462.21
+INST_04733,0.5524065326883304,1,0,High Risk,Payment Processor,Asia Pacific,Professional,500.0
+INST_04632,0.5517645589306204,1,1,High Risk,Insurance Company,North America,Basic,11529.48
+INST_04304,0.5515369691216631,1,1,High Risk,Insurance Company,Asia Pacific,Professional,11651.53
+INST_04085,0.55118241967005,1,0,High Risk,Bank,North America,Professional,7786.52
+INST_04843,0.5507700927872994,1,1,High Risk,Bank,Asia Pacific,Professional,7658.48
+INST_04460,0.5497142029614642,1,0,High Risk,Credit Union,Asia Pacific,Enterprise,2552.27
+INST_04199,0.5494714892256918,1,1,High Risk,Investment Firm,Europe,Professional,59536.21
+INST_04790,0.5481721455157941,1,1,High Risk,Bank,North America,Professional,3747.74
+INST_04235,0.54654420946477,1,0,High Risk,Bank,North America,Enterprise,23409.13
+INST_04756,0.5463337240592355,1,1,High Risk,Bank,North America,Professional,23773.03
+INST_04410,0.5462925982940559,1,0,High Risk,Bank,North America,Professional,500.0
+INST_04114,0.5454022418589988,1,1,High Risk,Investment Firm,North America,Basic,25864.31
+INST_04830,0.5448352348457806,1,1,High Risk,Insurance Company,Europe,Professional,23393.95
+INST_04568,0.5446515767663627,1,1,High Risk,Bank,Europe,Professional,1208.31
+INST_04660,0.5445748566962966,1,0,High Risk,Credit Union,Europe,Enterprise,2006.08
+INST_04861,0.5433716074252647,1,0,High Risk,Insurance Company,Europe,Professional,318074.0
+INST_04310,0.541351402287522,1,0,High Risk,Bank,North America,Basic,1017.82
+INST_04000,0.5397604828845779,1,0,High Risk,Investment Firm,Latin America,Basic,5234.49
+INST_04433,0.5392790785869944,1,1,High Risk,Payment Processor,North America,Enterprise,17310.51
+INST_04259,0.5369416195166048,1,0,High Risk,Credit Union,North America,Basic,500.0
+INST_04978,0.5367023102111276,1,0,High Risk,Bank,Middle East,Professional,35444.19
+INST_04625,0.533362313706894,1,0,High Risk,Investment Firm,North America,Professional,9333.77
+INST_04516,0.5331964608836103,1,1,High Risk,Credit Union,Europe,Professional,635.34
+INST_04583,0.5325061242033828,1,1,High Risk,Insurance Company,North America,Professional,649.7
+INST_04946,0.5321083424357794,1,1,High Risk,Investment Firm,North America,Basic,18220.8
+INST_04588,0.5309892400242484,1,1,High Risk,Investment Firm,North America,Professional,1966.23
+INST_04605,0.530580257333148,1,1,High Risk,Payment Processor,Asia Pacific,Enterprise,3791.76
+INST_04018,0.5301100887689597,1,0,High Risk,Bank,North America,Enterprise,5135.45
+INST_04817,0.5294818515564403,1,1,High Risk,Insurance Company,Europe,Professional,6967.62
+INST_04137,0.5290819035741297,1,0,High Risk,Bank,North America,Basic,500.0
+INST_04497,0.5269888850100921,1,0,High Risk,Bank,Europe,Professional,704.18
+INST_04973,0.5262617211785536,1,0,High Risk,Insurance Company,North America,Basic,585.34
+INST_04079,0.5260816455749147,1,0,High Risk,Bank,North America,Professional,5695.85
+INST_04299,0.5230393648936207,1,1,High Risk,Investment Firm,North America,Professional,551.57
+INST_04809,0.5228948561659539,1,1,High Risk,Payment Processor,Europe,Enterprise,16441.08
+INST_04176,0.5218118375479838,1,0,High Risk,Investment Firm,North America,Professional,38282.63
+INST_04962,0.5202621055568892,1,0,High Risk,Bank,Europe,Enterprise,2744.58
+INST_04341,0.5188304368667008,1,0,High Risk,Bank,Europe,Basic,1551.69
+INST_04414,0.5164257777528345,1,1,High Risk,Credit Union,Europe,Professional,1429.87
+INST_04464,0.5148787017665373,1,1,High Risk,Investment Firm,Asia Pacific,Enterprise,755.22
+INST_04313,0.5136040614984949,1,0,High Risk,Payment Processor,North America,Professional,7578.81
+INST_04858,0.5135437724219125,1,0,High Risk,Payment Processor,North America,Professional,78414.9
+INST_04659,0.5119972368063762,1,1,High Risk,Insurance Company,Asia Pacific,Enterprise,1063.68
+INST_04867,0.5108796045703294,1,1,High Risk,Bank,North America,Professional,9307.27
+INST_04639,0.5076695115691148,1,0,High Risk,Insurance Company,North America,Professional,7772.91
+INST_04581,0.5060475762670055,1,0,High Risk,Bank,Europe,Basic,500.0
+INST_04362,0.5058073162189288,1,0,High Risk,Insurance Company,Europe,Professional,7029.57
+INST_04697,0.5056471756872959,1,0,High Risk,Credit Union,Asia Pacific,Professional,43545.22
+INST_04925,0.5047780493421041,1,0,High Risk,Bank,North America,Basic,500.0
+INST_04461,0.5046099518733747,1,0,High Risk,Credit Union,North America,Professional,1759.0
+INST_04142,0.5020171459919486,1,0,High Risk,Bank,Middle East,Professional,2408.17
+INST_04393,0.5008312293992359,1,0,High Risk,Bank,Asia Pacific,Professional,3581.21
+INST_04900,0.4995564410093734,0,0,Medium Risk,Bank,North America,Basic,8571.88
+INST_04849,0.4980333458185226,0,0,Medium Risk,Bank,Europe,Professional,6032.4
+INST_04539,0.49746330844563585,0,1,Medium Risk,Bank,Europe,Professional,500.0
+INST_04419,0.4973578006453158,0,1,Medium Risk,Bank,Europe,Basic,12489.16
+INST_04228,0.4954061850916193,0,1,Medium Risk,Credit Union,North America,Basic,2421.67
+INST_04020,0.495062014514867,0,0,Medium Risk,Credit Union,North America,Enterprise,1602.08
+INST_04014,0.4942158369919084,0,0,Medium Risk,Investment Firm,North America,Basic,1646.21
+INST_04123,0.4929369710899246,0,1,Medium Risk,Payment Processor,Latin America,Professional,587.6
+INST_04046,0.49244224481444315,0,1,Medium Risk,Bank,North America,Basic,2304.06
+INST_04887,0.49236386708658314,0,1,Medium Risk,Investment Firm,Asia Pacific,Basic,500.0
+INST_04976,0.4923173578699398,0,0,Medium Risk,Bank,Europe,Professional,2778.35
+INST_04118,0.48795597337452185,0,1,Medium Risk,Bank,Latin America,Enterprise,42021.19
+INST_04049,0.48778771468601145,0,0,Medium Risk,Bank,Europe,Basic,500.0
+INST_04611,0.4876484482466317,0,0,Medium Risk,Bank,North America,Enterprise,15614.9
+INST_04966,0.48740309427722456,0,0,Medium Risk,Payment Processor,Asia Pacific,Professional,1979.15
+INST_04234,0.48716709064136915,0,1,Medium Risk,Bank,Asia Pacific,Enterprise,500.0
+INST_04131,0.48511647362092397,0,0,Medium Risk,Bank,Asia Pacific,Professional,1483.0
+INST_04175,0.4844443682412835,0,0,Medium Risk,Payment Processor,North America,Enterprise,3665.62
+INST_04301,0.48403374263400756,0,1,Medium Risk,Payment Processor,Europe,Professional,28465.6
+INST_04212,0.4820014214715876,0,0,Medium Risk,Credit Union,North America,Basic,1390.17
+INST_04060,0.4812182611382714,0,0,Medium Risk,Bank,Latin America,Professional,4412.43
+INST_04982,0.48015824444746963,0,1,Medium Risk,Investment Firm,North America,Enterprise,16501.11
+INST_04436,0.47971294256801017,0,1,Medium Risk,Bank,Asia Pacific,Professional,6979.86
+INST_04815,0.47930258097607614,0,0,Medium Risk,Payment Processor,Asia Pacific,Professional,14136.85
+INST_04808,0.47849361203734747,0,1,Medium Risk,Bank,Middle East,Professional,7242.38
+INST_04052,0.47706873667377325,0,0,Medium Risk,Insurance Company,North America,Professional,826.62
+INST_04432,0.4753908263747259,0,0,Medium Risk,Credit Union,Asia Pacific,Basic,4953.53
+INST_04616,0.4687130448112861,0,1,Medium Risk,Insurance Company,Asia Pacific,Basic,5347.37
+INST_04886,0.4686603871633262,0,1,Medium Risk,Bank,Latin America,Professional,7374.7
+INST_04776,0.46776113663360425,0,0,Medium Risk,Bank,Europe,Basic,554.67
+INST_04350,0.4675441836382392,0,1,Medium Risk,Insurance Company,North America,Basic,1517.27
+INST_04151,0.4654937150629293,0,0,Medium Risk,Bank,Europe,Enterprise,41653.75
+INST_04148,0.46308063969241664,0,1,Medium Risk,Insurance Company,Europe,Basic,10905.53
+INST_04309,0.46251380412373727,0,1,Medium Risk,Insurance Company,North America,Basic,500.0
+INST_04437,0.4623348314690471,0,0,Medium Risk,Insurance Company,North America,Professional,13466.87
+INST_04173,0.46227890674081595,0,1,Medium Risk,Credit Union,North America,Enterprise,602.47
+INST_04838,0.4607304240222969,0,0,Medium Risk,Bank,Asia Pacific,Basic,4242.88
+INST_04818,0.4606975375470627,0,1,Medium Risk,Payment Processor,North America,Basic,7724.44
+INST_04619,0.46004921237276336,0,1,Medium Risk,Payment Processor,North America,Professional,500.0
+INST_04944,0.4597426161499365,0,1,Medium Risk,Insurance Company,North America,Basic,1750.21
+INST_04256,0.458355144607185,0,1,Medium Risk,Payment Processor,North America,Basic,24404.43
+INST_04268,0.45832418334771524,0,1,Medium Risk,Insurance Company,North America,Enterprise,500.0
+INST_04382,0.45721772518702575,0,0,Medium Risk,Investment Firm,Europe,Basic,500.0
+INST_04507,0.4569467497081583,0,1,Medium Risk,Bank,Europe,Professional,2110.67
+INST_04108,0.4563255021315852,0,1,Medium Risk,Payment Processor,North America,Enterprise,4569.56
+INST_04047,0.4550420400018633,0,0,Medium Risk,Investment Firm,Europe,Basic,6361.21
+INST_04893,0.4547048898706187,0,1,Medium Risk,Bank,Asia Pacific,Professional,17462.16
+INST_04834,0.4543409949841234,0,0,Medium Risk,Credit Union,North America,Professional,34312.81
+INST_04257,0.45272229507104406,0,1,Medium Risk,Credit Union,North America,Enterprise,3977.05
+INST_04994,0.45196831441975954,0,1,Medium Risk,Bank,North America,Professional,8169.1
+INST_04247,0.4517460293273549,0,0,Medium Risk,Bank,Europe,Professional,12276.3
+INST_04487,0.449988552475553,0,0,Medium Risk,Credit Union,North America,Enterprise,2321.56
+INST_04837,0.4482474608171176,0,1,Medium Risk,Credit Union,North America,Professional,7232.5
+INST_04819,0.4475601048955943,0,1,Medium Risk,Bank,North America,Professional,3971.71
+INST_04910,0.4453973760656437,0,0,Medium Risk,Payment Processor,North America,Basic,12507.6
+INST_04960,0.4443025244868222,0,1,Medium Risk,Credit Union,Europe,Professional,16110.83
+INST_04508,0.44418509593430544,0,1,Medium Risk,Investment Firm,North America,Enterprise,500.0
+INST_04796,0.44329402026269543,0,0,Medium Risk,Bank,Latin America,Basic,813.48
+INST_04439,0.44245679474521826,0,1,Medium Risk,Bank,Asia Pacific,Professional,500.0
+INST_04068,0.4418800651442132,0,0,Medium Risk,Investment Firm,North America,Professional,13712.63
+INST_04177,0.44146925488806993,0,1,Medium Risk,Insurance Company,Asia Pacific,Professional,35352.69
+INST_04238,0.4405467265424718,0,1,Medium Risk,Insurance Company,Europe,Professional,1027.68
+INST_04668,0.43873885737381435,0,0,Medium Risk,Investment Firm,Asia Pacific,Professional,16658.23
+INST_04618,0.43840700627478973,0,1,Medium Risk,Bank,Asia Pacific,Professional,13147.79
+INST_04029,0.43753941339110985,0,1,Medium Risk,Credit Union,Europe,Basic,13256.92
+INST_04737,0.4367810560582187,0,1,Medium Risk,Bank,North America,Enterprise,2591.11
+INST_04652,0.43655582568911205,0,1,Medium Risk,Credit Union,North America,Professional,42932.33
+INST_04596,0.43587678132933577,0,0,Medium Risk,Insurance Company,Europe,Enterprise,16038.11
+INST_04560,0.4350873692496592,0,1,Medium Risk,Insurance Company,Asia Pacific,Professional,500.0
+INST_04558,0.43486467912175064,0,0,Medium Risk,Payment Processor,Asia Pacific,Professional,1303.22
+INST_04446,0.4340515988083334,0,1,Medium Risk,Bank,Middle East,Enterprise,1405.79
+INST_04019,0.4338628042425089,0,0,Medium Risk,Bank,Asia Pacific,Basic,6808.56
+INST_04784,0.4331761003717159,0,0,Medium Risk,Credit Union,Europe,Professional,3555.34
+INST_04320,0.43284871803275765,0,0,Medium Risk,Investment Firm,North America,Basic,1940.31
+INST_04620,0.4312406159760029,0,0,Medium Risk,Payment Processor,Europe,Enterprise,16416.19
+INST_04205,0.4299575970452004,0,0,Medium Risk,Credit Union,North America,Professional,8271.71
+INST_04368,0.4276172675983594,0,1,Medium Risk,Bank,Asia Pacific,Enterprise,7287.14
+INST_04696,0.4269164817047797,0,0,Medium Risk,Credit Union,North America,Basic,19572.86
+INST_04928,0.4256809247332676,0,1,Medium Risk,Insurance Company,Asia Pacific,Basic,1270.1
+INST_04810,0.42376424876802943,0,1,Medium Risk,Bank,North America,Basic,22082.65
+INST_04862,0.42307441640547566,0,0,Medium Risk,Bank,Latin America,Basic,1431.96
+INST_04115,0.422526630226845,0,1,Medium Risk,Bank,Europe,Professional,1740.41
+INST_04069,0.4214487368931518,0,1,Medium Risk,Insurance Company,North America,Basic,68632.48
+INST_04455,0.42072732408182895,0,1,Medium Risk,Bank,North America,Professional,23581.98
+INST_04109,0.4195291418181046,0,0,Medium Risk,Investment Firm,Asia Pacific,Basic,1095.2
+INST_04710,0.418212002298169,0,0,Medium Risk,Credit Union,North America,Professional,28252.33
+INST_04132,0.4182018708799833,0,0,Medium Risk,Investment Firm,Europe,Professional,5318.98
+INST_04476,0.41782960899637267,0,1,Medium Risk,Credit Union,Middle East,Enterprise,20139.75
+INST_04237,0.4175213234276093,0,0,Medium Risk,Insurance Company,North America,Basic,500.0
+INST_04627,0.41694597122654165,0,0,Medium Risk,Credit Union,Latin America,Basic,1088.47
+INST_04742,0.4157955883330777,0,1,Medium Risk,Bank,Latin America,Enterprise,8592.7
+INST_04067,0.415592864646116,0,0,Medium Risk,Payment Processor,Europe,Professional,11268.55
+INST_04501,0.4155276007947721,0,1,Medium Risk,Credit Union,Asia Pacific,Enterprise,728.44
+INST_04662,0.41418937665894945,0,1,Medium Risk,Credit Union,North America,Professional,6457.69
+INST_04077,0.4141811239538088,0,0,Medium Risk,Bank,Asia Pacific,Basic,19898.99
+INST_04877,0.41252921749798976,0,0,Medium Risk,Investment Firm,North America,Enterprise,36575.74
+INST_04580,0.41251914400649226,0,0,Medium Risk,Payment Processor,North America,Professional,6601.14
+INST_04829,0.4096011738842439,0,0,Medium Risk,Credit Union,Asia Pacific,Enterprise,6864.52
+INST_04749,0.40800412167564665,0,0,Medium Risk,Insurance Company,Latin America,Enterprise,2054.95
+INST_04243,0.4067204288418125,0,0,Medium Risk,Credit Union,Asia Pacific,Professional,1047.27
+INST_04407,0.406291818618285,0,0,Medium Risk,Bank,Europe,Professional,2386.86
+INST_04459,0.4052895833316362,0,0,Medium Risk,Credit Union,North America,Professional,93993.69
+INST_04221,0.4047729954966275,0,0,Medium Risk,Investment Firm,Europe,Enterprise,2005.23
+INST_04302,0.39974036985133327,0,0,Medium Risk,Insurance Company,Asia Pacific,Basic,500.0
+INST_04130,0.3993037142414794,0,1,Medium Risk,Bank,North America,Basic,1487.21
+INST_04548,0.3989790612898288,0,0,Medium Risk,Investment Firm,Europe,Professional,2098.4
+INST_04431,0.39782229531906,0,1,Medium Risk,Credit Union,North America,Enterprise,32842.6
+INST_04585,0.3973628440338448,0,0,Medium Risk,Payment Processor,Asia Pacific,Professional,6618.65
+INST_04511,0.3972542677281596,0,1,Medium Risk,Credit Union,Europe,Professional,6072.06
+INST_04161,0.3972316216022987,0,0,Medium Risk,Bank,Europe,Basic,1120.01
+INST_04699,0.39622741252746957,0,0,Medium Risk,Payment Processor,Asia Pacific,Professional,2728.46
+INST_04638,0.39588204489417295,0,1,Medium Risk,Insurance Company,Europe,Professional,6406.81
+INST_04728,0.3956272724467088,0,0,Medium Risk,Insurance Company,North America,Enterprise,1240.78
+INST_04352,0.3951214327657041,0,1,Medium Risk,Credit Union,Latin America,Basic,38071.7
+INST_04770,0.3942385604847145,0,0,Medium Risk,Bank,Asia Pacific,Enterprise,14400.4
+INST_04645,0.3937391659856756,0,1,Medium Risk,Insurance Company,Asia Pacific,Professional,6459.47
+INST_04284,0.3935663328553325,0,1,Medium Risk,Investment Firm,Asia Pacific,Professional,90144.92
+INST_04970,0.39349513426830607,0,0,Medium Risk,Credit Union,North America,Enterprise,3289.18
+INST_04606,0.3922759177286914,0,0,Medium Risk,Insurance Company,Asia Pacific,Professional,6841.81
+INST_04974,0.3913175945543928,0,1,Medium Risk,Bank,Europe,Basic,1480.36
+INST_04279,0.39029774766616937,0,1,Medium Risk,Credit Union,North America,Professional,3305.77
+INST_04518,0.3870999509212444,0,0,Medium Risk,Bank,Europe,Enterprise,2039.53
+INST_04448,0.38675493386352455,0,1,Medium Risk,Bank,North America,Professional,3167.87
+INST_04601,0.38660526887145324,0,0,Medium Risk,Insurance Company,Asia Pacific,Basic,1765.47
+INST_04986,0.3855958487006623,0,1,Medium Risk,Insurance Company,North America,Professional,4809.37
+INST_04949,0.3853168620508744,0,1,Medium Risk,Insurance Company,Europe,Professional,8054.38
+INST_04870,0.3850637784995006,0,0,Medium Risk,Credit Union,North America,Basic,2683.71
+INST_04338,0.3845954646662059,0,0,Medium Risk,Credit Union,North America,Professional,14845.38
+INST_04839,0.38330584112301935,0,0,Medium Risk,Bank,Asia Pacific,Professional,4581.42
+INST_04863,0.382386393868226,0,0,Medium Risk,Bank,Asia Pacific,Professional,33846.31
+INST_04857,0.37941943951289564,0,1,Medium Risk,Payment Processor,Europe,Professional,8101.83
+INST_04719,0.3784473719644304,0,0,Medium Risk,Payment Processor,Asia Pacific,Professional,5289.59
+INST_04477,0.3771362372728527,0,1,Medium Risk,Credit Union,Latin America,Enterprise,542.73
+INST_04683,0.37590079599329024,0,0,Medium Risk,Bank,Asia Pacific,Basic,7830.07
+INST_04160,0.3758831789219547,0,0,Medium Risk,Credit Union,Latin America,Basic,123184.9
+INST_04056,0.37587186201822737,0,1,Medium Risk,Insurance Company,Latin America,Professional,643.48
+INST_04895,0.3752413870465594,0,1,Medium Risk,Bank,North America,Basic,44818.34
+INST_04061,0.3732931224860115,0,1,Medium Risk,Bank,Latin America,Enterprise,10330.38
+INST_04785,0.37284126792623545,0,1,Medium Risk,Credit Union,Asia Pacific,Professional,39317.98
+INST_04945,0.3727236630153432,0,0,Medium Risk,Payment Processor,North America,Enterprise,17838.07
+INST_04395,0.3724291080609076,0,1,Medium Risk,Insurance Company,North America,Professional,899.27
+INST_04333,0.3696209791806482,0,0,Medium Risk,Investment Firm,Asia Pacific,Basic,18033.63
+INST_04298,0.36760912115246874,0,1,Medium Risk,Credit Union,Latin America,Professional,4869.07
+INST_04990,0.36752566229526695,0,0,Medium Risk,Payment Processor,Europe,Enterprise,4562.83
+INST_04346,0.3662706431870806,0,0,Medium Risk,Insurance Company,Asia Pacific,Basic,2591.64
+INST_04609,0.3658266903993267,0,0,Medium Risk,Credit Union,Asia Pacific,Professional,1626.3
+INST_04447,0.3654708295177362,0,0,Medium Risk,Insurance Company,Asia Pacific,Professional,5238.13
+INST_04866,0.36532103108215075,0,0,Medium Risk,Credit Union,Europe,Professional,4036.96
+INST_04751,0.36510210239623214,0,0,Medium Risk,Credit Union,North America,Basic,823.44
+INST_04570,0.36485776605991715,0,0,Medium Risk,Credit Union,Europe,Basic,2277.7
+INST_04947,0.36484658542026493,0,1,Medium Risk,Insurance Company,North America,Professional,809.33
+INST_04720,0.364675956151787,0,1,Medium Risk,Bank,Asia Pacific,Professional,7732.65
+INST_04263,0.36346690673476784,0,0,Medium Risk,Credit Union,Europe,Enterprise,1702.36
+INST_04707,0.36321405308614163,0,0,Medium Risk,Bank,Europe,Professional,2749.1
+INST_04406,0.3626593983193802,0,0,Medium Risk,Payment Processor,North America,Basic,3736.08
+INST_04521,0.3624782923878861,0,0,Medium Risk,Investment Firm,Europe,Enterprise,2391.64
+INST_04051,0.36161354298956433,0,1,Medium Risk,Investment Firm,Europe,Professional,1200.2
+INST_04952,0.3603376700318337,0,1,Medium Risk,Credit Union,North America,Professional,500.0
+INST_04762,0.358977647205932,0,1,Medium Risk,Insurance Company,Middle East,Basic,5153.22
+INST_04590,0.35886308204998474,0,0,Medium Risk,Investment Firm,Europe,Professional,3079.54
+INST_04101,0.35746431640147686,0,1,Medium Risk,Credit Union,Asia Pacific,Professional,5236.18
+INST_04122,0.3560290780869645,0,0,Medium Risk,Investment Firm,Asia Pacific,Professional,907.26
+INST_04714,0.3539859613651397,0,0,Medium Risk,Credit Union,Europe,Professional,8613.26
+INST_04827,0.35325214373654956,0,0,Medium Risk,Bank,Europe,Professional,4205.35
+INST_04979,0.3521861178084372,0,0,Medium Risk,Bank,Europe,Professional,2048.75
+INST_04527,0.3516316841356513,0,1,Medium Risk,Payment Processor,North America,Professional,9863.85
+INST_04841,0.35025177883871256,0,0,Medium Risk,Payment Processor,Middle East,Professional,4833.7
+INST_04261,0.3500566161906181,0,0,Medium Risk,Payment Processor,Europe,Enterprise,534.71
+INST_04724,0.3493230171974239,0,0,Medium Risk,Bank,North America,Enterprise,3013.46
+INST_04484,0.348754407049153,0,0,Medium Risk,Bank,Latin America,Basic,3298.51
+INST_04800,0.3483264168307727,0,0,Medium Risk,Bank,Asia Pacific,Enterprise,2380.23
+INST_04663,0.34639154158633995,0,1,Medium Risk,Insurance Company,North America,Professional,9843.96
+INST_04885,0.34638443472554864,0,0,Medium Risk,Payment Processor,Asia Pacific,Enterprise,764.19
+INST_04722,0.34496411462096793,0,0,Medium Risk,Bank,Asia Pacific,Professional,14850.43
+INST_04950,0.3449537607008356,0,0,Medium Risk,Credit Union,Europe,Professional,1698.8
+INST_04677,0.3438996355420767,0,1,Medium Risk,Payment Processor,North America,Professional,26349.73
+INST_04927,0.34344978704685203,0,1,Medium Risk,Bank,Middle East,Professional,5614.91
+INST_04110,0.34338917933620566,0,0,Medium Risk,Investment Firm,Latin America,Enterprise,96216.73
+INST_04577,0.34301324303934727,0,0,Medium Risk,Bank,Asia Pacific,Professional,1654.38
+INST_04725,0.34226454648866655,0,1,Medium Risk,Bank,Middle East,Enterprise,1611.24
+INST_04826,0.34151929491335165,0,0,Medium Risk,Investment Firm,Europe,Professional,24140.28
+INST_04316,0.3401913847988209,0,1,Medium Risk,Insurance Company,Asia Pacific,Basic,5735.3
+INST_04564,0.3401776173448299,0,0,Medium Risk,Bank,North America,Professional,2801.53
+INST_04610,0.33914602689116785,0,1,Medium Risk,Bank,Asia Pacific,Professional,500.0
+INST_04502,0.33817072645095153,0,0,Medium Risk,Bank,Europe,Basic,1689.44
+INST_04458,0.33226897841607267,0,0,Medium Risk,Credit Union,Asia Pacific,Professional,3071.65
+INST_04806,0.331216584054976,0,1,Medium Risk,Bank,Asia Pacific,Basic,9315.7
+INST_04270,0.33090747303166224,0,0,Medium Risk,Investment Firm,North America,Professional,222234.45
+INST_04943,0.3304377318459478,0,1,Medium Risk,Credit Union,Asia Pacific,Professional,601.92
+INST_04465,0.3296177043179427,0,0,Medium Risk,Credit Union,Middle East,Professional,14638.4
+INST_04381,0.3296047470559844,0,0,Medium Risk,Bank,North America,Professional,11301.38
+INST_04897,0.3292114013877335,0,1,Medium Risk,Bank,Asia Pacific,Basic,60488.07
+INST_04713,0.32839292135660725,0,1,Medium Risk,Insurance Company,North America,Professional,1732.07
+INST_04224,0.32745173491147206,0,0,Medium Risk,Investment Firm,Latin America,Professional,7314.04
+INST_04940,0.3272537246773258,0,0,Medium Risk,Bank,Latin America,Professional,23878.55
+INST_04425,0.32417240445685247,0,0,Medium Risk,Credit Union,Asia Pacific,Professional,11393.27
+INST_04523,0.32403936228813973,0,0,Medium Risk,Investment Firm,Asia Pacific,Basic,2427.69
+INST_04505,0.3239174869726693,0,1,Medium Risk,Bank,Europe,Professional,4680.5
+INST_04282,0.32387569334649524,0,0,Medium Risk,Bank,Asia Pacific,Professional,23952.06
+INST_04524,0.32306043582168437,0,0,Medium Risk,Insurance Company,North America,Professional,12220.16
+INST_04286,0.3228446254203148,0,1,Medium Risk,Payment Processor,Europe,Basic,9255.64
+INST_04559,0.32270910490234683,0,0,Medium Risk,Payment Processor,Europe,Basic,51605.99
+INST_04002,0.3223223161612777,0,1,Medium Risk,Insurance Company,Asia Pacific,Professional,5153.63
+INST_04822,0.321774616014416,0,0,Medium Risk,Credit Union,Asia Pacific,Professional,1747.78
+INST_04703,0.32068588101120193,0,0,Medium Risk,Investment Firm,Asia Pacific,Professional,6150.82
+INST_04688,0.3206149997776292,0,1,Medium Risk,Credit Union,North America,Enterprise,120438.28
+INST_04712,0.3201168368780709,0,0,Medium Risk,Bank,North America,Professional,4017.32
+INST_04883,0.31969440548879774,0,0,Medium Risk,Bank,Latin America,Professional,16767.86
+INST_04955,0.31960552397246567,0,1,Medium Risk,Insurance Company,North America,Professional,5137.13
+INST_04449,0.31931459878311064,0,0,Medium Risk,Insurance Company,North America,Enterprise,500.0
+INST_04086,0.3186718784463541,0,0,Medium Risk,Bank,North America,Professional,2302.19
+INST_04933,0.31786369120505953,0,0,Medium Risk,Credit Union,North America,Professional,23175.87
+INST_04736,0.31760600470145484,0,0,Medium Risk,Credit Union,Asia Pacific,Basic,4050.59
+INST_04360,0.31694580313142745,0,1,Medium Risk,Bank,Europe,Enterprise,29081.89
+INST_04537,0.31588372357868044,0,1,Medium Risk,Investment Firm,Asia Pacific,Basic,12605.29
+INST_04486,0.31567002627508106,0,0,Medium Risk,Bank,North America,Basic,583.09
+INST_04671,0.31431755435963477,0,1,Medium Risk,Payment Processor,Asia Pacific,Enterprise,10427.55
+INST_04241,0.31408616059833677,0,0,Medium Risk,Credit Union,Asia Pacific,Enterprise,4941.02
+INST_04634,0.3136316064293303,0,1,Medium Risk,Bank,North America,Professional,6438.44
+INST_04334,0.3134821908933838,0,0,Medium Risk,Credit Union,North America,Professional,904.71
+INST_04600,0.3127479724396136,0,0,Medium Risk,Bank,North America,Basic,2717.82
+INST_04757,0.31183250438355287,0,0,Medium Risk,Insurance Company,Middle East,Professional,4040.73
+INST_04587,0.3106865299100589,0,0,Medium Risk,Bank,Europe,Basic,18198.65
+INST_04597,0.31044522080797116,0,0,Medium Risk,Bank,North America,Enterprise,839.68
+INST_04066,0.3100494604381684,0,0,Medium Risk,Bank,North America,Enterprise,500000.0
+INST_04397,0.3095323741881236,0,1,Medium Risk,Bank,Europe,Basic,12839.62
+INST_04217,0.3080437142246698,0,0,Medium Risk,Credit Union,Latin America,Basic,15665.05
+INST_04691,0.30623991751397966,0,0,Medium Risk,Credit Union,Europe,Basic,13703.27
+INST_04492,0.30547574416113904,0,1,Medium Risk,Investment Firm,North America,Basic,7235.47
+INST_04522,0.30511549096745383,0,0,Medium Risk,Payment Processor,Latin America,Enterprise,2113.23
+INST_04534,0.3049300086742612,0,0,Medium Risk,Investment Firm,Europe,Professional,872.16
+INST_04116,0.3041604846863127,0,0,Medium Risk,Payment Processor,Europe,Professional,29144.78
+INST_04266,0.3036876464726382,0,1,Medium Risk,Investment Firm,North America,Enterprise,4413.36
+INST_04987,0.30335656280502316,0,0,Medium Risk,Investment Firm,North America,Professional,9159.84
+INST_04112,0.3024173098327342,0,0,Medium Risk,Bank,Europe,Basic,3146.91
+INST_04656,0.3018936072760917,0,0,Medium Risk,Insurance Company,Latin America,Professional,16265.03
+INST_04412,0.3009021072871162,0,0,Medium Risk,Investment Firm,Asia Pacific,Professional,1432.6
+INST_04033,0.30048215129875777,0,1,Medium Risk,Payment Processor,Asia Pacific,Basic,13505.22
+INST_04351,0.2992622072660322,0,0,Low Risk,Investment Firm,North America,Professional,1649.36
+INST_04669,0.29784130020930527,0,1,Low Risk,Investment Firm,Asia Pacific,Professional,7164.46
+INST_04906,0.29743230129239023,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,4365.95
+INST_04102,0.2972357476529314,0,1,Low Risk,Credit Union,North America,Basic,4708.84
+INST_04563,0.2943654670452371,0,0,Low Risk,Bank,Europe,Enterprise,1541.14
+INST_04734,0.2941619983617385,0,0,Low Risk,Credit Union,Asia Pacific,Professional,500.0
+INST_04850,0.29306035158645805,0,0,Low Risk,Payment Processor,Europe,Enterprise,3446.47
+INST_04626,0.2930010840319732,0,1,Low Risk,Bank,Europe,Professional,16820.33
+INST_04653,0.2929894683377724,0,0,Low Risk,Insurance Company,North America,Professional,93930.1
+INST_04803,0.2924039798423953,0,0,Low Risk,Bank,Asia Pacific,Basic,2983.87
+INST_04070,0.29193167642154333,0,0,Low Risk,Bank,Latin America,Professional,5609.79
+INST_04143,0.2916846838295962,0,1,Low Risk,Insurance Company,Europe,Professional,2485.01
+INST_04582,0.29132997451604487,0,0,Low Risk,Insurance Company,North America,Professional,15361.66
+INST_04635,0.29128065973890227,0,0,Low Risk,Payment Processor,North America,Basic,8317.21
+INST_04489,0.29065557824606314,0,0,Low Risk,Investment Firm,North America,Professional,1539.32
+INST_04711,0.2901070734013855,0,1,Low Risk,Credit Union,Latin America,Basic,6048.78
+INST_04920,0.2900493714396531,0,0,Low Risk,Payment Processor,North America,Professional,6247.26
+INST_04359,0.2898655642927891,0,1,Low Risk,Bank,Asia Pacific,Enterprise,6238.53
+INST_04951,0.2891868132074426,0,0,Low Risk,Bank,Asia Pacific,Basic,8395.89
+INST_04378,0.28743047732178967,0,0,Low Risk,Bank,Latin America,Professional,4214.35
+INST_04121,0.28648655208433116,0,0,Low Risk,Credit Union,Europe,Professional,5239.94
+INST_04196,0.28449771692950115,0,0,Low Risk,Bank,Asia Pacific,Basic,12398.23
+INST_04647,0.2833876772804929,0,0,Low Risk,Bank,Europe,Professional,594.72
+INST_04499,0.2826471018263918,0,0,Low Risk,Credit Union,North America,Professional,4314.76
+INST_04411,0.2826312471983041,0,0,Low Risk,Bank,Asia Pacific,Professional,2526.61
+INST_04797,0.2825253400716525,0,0,Low Risk,Insurance Company,Europe,Basic,34815.86
+INST_04636,0.28232788245648516,0,1,Low Risk,Bank,Latin America,Basic,3737.38
+INST_04926,0.2822751316486618,0,1,Low Risk,Credit Union,Europe,Enterprise,6083.79
+INST_04322,0.28086362660954206,0,0,Low Risk,Investment Firm,Europe,Professional,3747.6
+INST_04314,0.2802004538288664,0,0,Low Risk,Payment Processor,Europe,Professional,5172.81
+INST_04661,0.27971309668986094,0,1,Low Risk,Investment Firm,North America,Professional,7898.44
+INST_04612,0.27880046842513295,0,0,Low Risk,Credit Union,Latin America,Professional,5531.13
+INST_04517,0.2784109026345567,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,16368.17
+INST_04767,0.27820939059727634,0,1,Low Risk,Bank,Asia Pacific,Enterprise,2088.83
+INST_04644,0.2779343490622409,0,1,Low Risk,Insurance Company,North America,Professional,6335.62
+INST_04332,0.27781462158702813,0,0,Low Risk,Credit Union,Europe,Basic,502.57
+INST_04291,0.27632408972867734,0,0,Low Risk,Bank,Europe,Basic,500.0
+INST_04215,0.27456392036512045,0,0,Low Risk,Insurance Company,North America,Basic,3187.23
+INST_04233,0.27388371338224043,0,0,Low Risk,Payment Processor,Europe,Enterprise,4498.75
+INST_04415,0.2733838720072973,0,0,Low Risk,Credit Union,North America,Professional,5443.92
+INST_04721,0.27169233559623773,0,1,Low Risk,Bank,Europe,Basic,936.92
+INST_04179,0.2710570405129408,0,0,Low Risk,Bank,North America,Basic,4162.32
+INST_04931,0.270260290076984,0,0,Low Risk,Bank,North America,Professional,1213.4
+INST_04682,0.26998318098213575,0,0,Low Risk,Payment Processor,North America,Professional,545.71
+INST_04633,0.2693144413920113,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,2986.74
+INST_04766,0.268745061078284,0,0,Low Risk,Payment Processor,Europe,Professional,7404.02
+INST_04739,0.2681186553956435,0,0,Low Risk,Investment Firm,Europe,Professional,6573.32
+INST_04687,0.26793026774714784,0,0,Low Risk,Bank,North America,Professional,21545.23
+INST_04072,0.26764573332086383,0,0,Low Risk,Investment Firm,Europe,Professional,34879.38
+INST_04828,0.2673975640711749,0,0,Low Risk,Bank,Asia Pacific,Professional,126767.83
+INST_04462,0.2661300543532677,0,0,Low Risk,Payment Processor,Asia Pacific,Basic,4227.06
+INST_04752,0.2658080502215939,0,0,Low Risk,Investment Firm,Europe,Professional,8874.61
+INST_04129,0.2651114530359164,0,0,Low Risk,Bank,Middle East,Basic,500.0
+INST_04512,0.26472260152244753,0,0,Low Risk,Bank,North America,Basic,4223.99
+INST_04678,0.26438046832525164,0,0,Low Risk,Investment Firm,Europe,Professional,11368.19
+INST_04930,0.26402331866622547,0,1,Low Risk,Credit Union,Asia Pacific,Basic,1739.22
+INST_04099,0.26399681626490806,0,0,Low Risk,Bank,North America,Enterprise,765.68
+INST_04071,0.26203394032924493,0,0,Low Risk,Investment Firm,Asia Pacific,Basic,1866.35
+INST_04306,0.26105166222336895,0,0,Low Risk,Credit Union,North America,Basic,30103.19
+INST_04156,0.25846486645753447,0,0,Low Risk,Credit Union,Latin America,Enterprise,18460.45
+INST_04723,0.2560988620163759,0,0,Low Risk,Credit Union,Asia Pacific,Basic,9860.2
+INST_04623,0.2553660197490496,0,0,Low Risk,Investment Firm,Asia Pacific,Enterprise,5429.0
+INST_04272,0.254679563766609,0,0,Low Risk,Bank,Asia Pacific,Basic,500.0
+INST_04648,0.25459627431824783,0,1,Low Risk,Payment Processor,Europe,Enterprise,51992.84
+INST_04938,0.25394519407163096,0,0,Low Risk,Insurance Company,Latin America,Professional,3533.3
+INST_04795,0.253554569014653,0,0,Low Risk,Bank,Europe,Enterprise,500.0
+INST_04466,0.2535180891041436,0,0,Low Risk,Bank,Latin America,Professional,500.0
+INST_04894,0.2531569213542553,0,0,Low Risk,Credit Union,Asia Pacific,Basic,1197.9
+INST_04380,0.25263354488669176,0,0,Low Risk,Bank,North America,Enterprise,1291.52
+INST_04528,0.25008994632588794,0,1,Low Risk,Investment Firm,Middle East,Enterprise,5152.51
+INST_04882,0.2473749747626804,0,0,Low Risk,Insurance Company,North America,Professional,1604.79
+INST_04904,0.24702708875298568,0,0,Low Risk,Payment Processor,Latin America,Professional,4678.62
+INST_04545,0.24698630401131239,0,0,Low Risk,Insurance Company,North America,Professional,15635.41
+INST_04253,0.24693193078589912,0,0,Low Risk,Credit Union,North America,Enterprise,6419.4
+INST_04443,0.24618113000647684,0,0,Low Risk,Credit Union,North America,Enterprise,500.0
+INST_04509,0.24522273075161682,0,0,Low Risk,Payment Processor,North America,Professional,1286.55
+INST_04617,0.24458630696094905,0,0,Low Risk,Payment Processor,Latin America,Professional,1157.38
+INST_04144,0.2443341165984363,0,1,Low Risk,Payment Processor,Asia Pacific,Professional,1735.95
+INST_04186,0.24388856651465407,0,0,Low Risk,Bank,Asia Pacific,Professional,20440.32
+INST_04730,0.2436764517450819,0,0,Low Risk,Bank,North America,Enterprise,6936.04
+INST_04032,0.2431665279864386,0,0,Low Risk,Bank,North America,Enterprise,3141.18
+INST_04929,0.24288515116642057,0,0,Low Risk,Payment Processor,Latin America,Professional,3634.42
+INST_04220,0.24219618355770492,0,0,Low Risk,Bank,North America,Professional,6234.0
+INST_04667,0.2421262092581818,0,0,Low Risk,Insurance Company,North America,Professional,15101.67
+INST_04389,0.24207052121818354,0,0,Low Risk,Bank,Europe,Professional,2154.77
+INST_04030,0.2419791292031383,0,0,Low Risk,Investment Firm,North America,Professional,544.44
+INST_04717,0.24153510749427035,0,0,Low Risk,Payment Processor,North America,Enterprise,22916.77
+INST_04043,0.2411125339061553,0,1,Low Risk,Investment Firm,North America,Basic,5840.13
+INST_04326,0.2400274793459894,0,0,Low Risk,Bank,Asia Pacific,Professional,1082.63
+INST_04552,0.2399864673006723,0,0,Low Risk,Bank,Asia Pacific,Professional,9437.43
+INST_04856,0.23976601630404992,0,1,Low Risk,Bank,North America,Professional,938.76
+INST_04554,0.23923144038204583,0,0,Low Risk,Credit Union,Europe,Basic,10871.9
+INST_04747,0.23884072444825516,0,1,Low Risk,Bank,North America,Professional,12483.36
+INST_04230,0.23825198366778952,0,0,Low Risk,Insurance Company,Europe,Basic,3650.87
+INST_04271,0.2377188454664909,0,1,Low Risk,Payment Processor,Europe,Professional,8053.45
+INST_04679,0.23760834024855634,0,0,Low Risk,Investment Firm,North America,Enterprise,115203.4
+INST_04646,0.23665031750704701,0,0,Low Risk,Investment Firm,Asia Pacific,Enterprise,2844.75
+INST_04375,0.23554055573260377,0,0,Low Risk,Credit Union,North America,Enterprise,768.18
+INST_04865,0.23521242959264213,0,0,Low Risk,Investment Firm,North America,Basic,5378.74
+INST_04342,0.23412312139854113,0,0,Low Risk,Insurance Company,Asia Pacific,Basic,6432.49
+INST_04924,0.23345250007062784,0,0,Low Risk,Bank,Europe,Professional,10316.91
+INST_04155,0.2333496511654613,0,0,Low Risk,Bank,North America,Enterprise,1427.63
+INST_04918,0.23309356246824683,0,1,Low Risk,Insurance Company,North America,Professional,624.17
+INST_04543,0.23215145062084272,0,0,Low Risk,Bank,Europe,Basic,1411.87
+INST_04251,0.23153928070087823,0,0,Low Risk,Bank,Europe,Enterprise,22172.11
+INST_04262,0.2312607810181508,0,0,Low Risk,Credit Union,Asia Pacific,Professional,1717.6
+INST_04651,0.23113810083076813,0,0,Low Risk,Insurance Company,North America,Professional,983.6
+INST_04880,0.2290221113884639,0,0,Low Risk,Bank,Europe,Enterprise,500.0
+INST_04090,0.22851309637320494,0,0,Low Risk,Insurance Company,Europe,Enterprise,14385.69
+INST_04783,0.22808117033367975,0,0,Low Risk,Bank,Latin America,Professional,1958.85
+INST_04879,0.22702993830397147,0,0,Low Risk,Insurance Company,Europe,Basic,1707.46
+INST_04089,0.2260373202529707,0,0,Low Risk,Bank,Europe,Professional,500.0
+INST_04604,0.22576834072920518,0,0,Low Risk,Insurance Company,Asia Pacific,Professional,6339.98
+INST_04125,0.2251578937586528,0,0,Low Risk,Investment Firm,Middle East,Professional,21781.92
+INST_04672,0.2234138795364815,0,0,Low Risk,Insurance Company,North America,Basic,3135.14
+INST_04565,0.22323595944947963,0,0,Low Risk,Payment Processor,North America,Basic,71214.71
+INST_04017,0.2231716928886812,0,0,Low Risk,Payment Processor,Asia Pacific,Basic,3218.04
+INST_04092,0.22232252538668765,0,0,Low Risk,Credit Union,Europe,Professional,58844.2
+INST_04903,0.22174728531350646,0,0,Low Risk,Bank,Europe,Basic,27369.37
+INST_04589,0.2210761796558974,0,0,Low Risk,Insurance Company,Asia Pacific,Basic,1152.95
+INST_04021,0.21828139397952484,0,0,Low Risk,Bank,Latin America,Basic,611.31
+INST_04225,0.2173096169288007,0,0,Low Risk,Insurance Company,Latin America,Professional,12391.32
+INST_04566,0.21665389185882822,0,0,Low Risk,Bank,Europe,Enterprise,5111.24
+INST_04084,0.21616222068605892,0,1,Low Risk,Bank,North America,Basic,36296.36
+INST_04053,0.2161153671452836,0,0,Low Risk,Investment Firm,North America,Professional,11024.39
+INST_04650,0.21603944848088175,0,0,Low Risk,Bank,North America,Basic,32002.38
+INST_04738,0.21603164446035555,0,1,Low Risk,Credit Union,North America,Enterprise,660.74
+INST_04124,0.21548716399673268,0,0,Low Risk,Insurance Company,North America,Professional,1612.55
+INST_04701,0.21424353613430355,0,0,Low Risk,Bank,North America,Basic,500.0
+INST_04373,0.21387395889286853,0,1,Low Risk,Credit Union,Latin America,Professional,12671.61
+INST_04741,0.21276610277142172,0,0,Low Risk,Bank,North America,Professional,42668.74
+INST_04593,0.21251585355142347,0,0,Low Risk,Bank,North America,Professional,5601.12
+INST_04321,0.21228045684503946,0,0,Low Risk,Payment Processor,Latin America,Basic,29550.55
+INST_04037,0.21165289845700586,0,0,Low Risk,Insurance Company,Asia Pacific,Professional,14167.43
+INST_04095,0.21163974763601456,0,0,Low Risk,Credit Union,Latin America,Professional,4596.41
+INST_04787,0.21104922519558209,0,0,Low Risk,Payment Processor,North America,Professional,6482.38
+INST_04390,0.21056564070861314,0,0,Low Risk,Bank,Latin America,Basic,500.0
+INST_04363,0.2104999626249949,0,0,Low Risk,Credit Union,North America,Enterprise,21953.23
+INST_04091,0.21031769410760576,0,0,Low Risk,Bank,North America,Professional,9069.47
+INST_04956,0.2088806567354727,0,0,Low Risk,Credit Union,Asia Pacific,Enterprise,5553.2
+INST_04374,0.20813058855044883,0,1,Low Risk,Credit Union,North America,Enterprise,20421.39
+INST_04391,0.20741539399691816,0,0,Low Risk,Credit Union,Middle East,Enterprise,155000.42
+INST_04833,0.2073264041987561,0,0,Low Risk,Bank,Middle East,Professional,7290.11
+INST_04149,0.2058643495285226,0,0,Low Risk,Insurance Company,Europe,Basic,22424.61
+INST_04269,0.2054413579722063,0,1,Low Risk,Payment Processor,North America,Professional,1896.19
+INST_04232,0.20470232812437206,0,0,Low Risk,Credit Union,Latin America,Basic,14415.88
+INST_04792,0.2039474177614473,0,0,Low Risk,Bank,North America,Professional,3556.69
+INST_04113,0.20186999436768616,0,0,Low Risk,Bank,Europe,Professional,12209.8
+INST_04772,0.20172822106369864,0,0,Low Risk,Bank,North America,Professional,613.26
+INST_04909,0.2016474133619808,0,0,Low Risk,Credit Union,North America,Basic,58815.8
+INST_04167,0.2014248134159705,0,0,Low Risk,Bank,North America,Enterprise,117095.54
+INST_04417,0.20129984823989985,0,0,Low Risk,Bank,North America,Professional,8287.37
+INST_04150,0.2010190252054602,0,0,Low Risk,Bank,Europe,Professional,19639.22
+INST_04401,0.1997067864336148,0,0,Low Risk,Credit Union,North America,Professional,22691.87
+INST_04192,0.19927957341801364,0,0,Low Risk,Credit Union,Latin America,Professional,1822.0
+INST_04820,0.19924565223936916,0,0,Low Risk,Bank,Europe,Professional,3907.28
+INST_04325,0.19892891816578068,0,0,Low Risk,Payment Processor,Latin America,Enterprise,2759.11
+INST_04426,0.19858447158449713,0,1,Low Risk,Bank,North America,Professional,1385.1
+INST_04864,0.19792372110183454,0,0,Low Risk,Bank,Asia Pacific,Professional,3487.5
+INST_04753,0.1978789415690094,0,0,Low Risk,Credit Union,Asia Pacific,Professional,10377.76
+INST_04335,0.1975735402399182,0,1,Low Risk,Bank,North America,Enterprise,21488.15
+INST_04876,0.19659955032609713,0,0,Low Risk,Investment Firm,North America,Basic,638.11
+INST_04935,0.1964764145136159,0,0,Low Risk,Credit Union,North America,Enterprise,2547.44
+INST_04136,0.19638818298575217,0,0,Low Risk,Insurance Company,Asia Pacific,Professional,1416.4
+INST_04364,0.19618852205468645,0,0,Low Risk,Bank,North America,Basic,6839.32
+INST_04152,0.19582628099365137,0,0,Low Risk,Insurance Company,North America,Professional,11880.18
+INST_04513,0.19568088386538052,0,0,Low Risk,Investment Firm,Asia Pacific,Basic,3221.27
+INST_04467,0.19557928469963873,0,0,Low Risk,Bank,Latin America,Enterprise,1675.22
+INST_04440,0.19522161591768164,0,0,Low Risk,Payment Processor,North America,Professional,11048.0
+INST_04692,0.19503243913334445,0,0,Low Risk,Bank,North America,Enterprise,95697.0
+INST_04544,0.19416717844874234,0,0,Low Risk,Credit Union,North America,Professional,2954.61
+INST_04416,0.19360258346337436,0,0,Low Risk,Credit Union,Europe,Professional,10772.62
+INST_04088,0.19345804213444795,0,0,Low Risk,Insurance Company,North America,Basic,10538.58
+INST_04347,0.19340761714720142,0,0,Low Risk,Investment Firm,Latin America,Professional,21631.71
+INST_04932,0.1933741991336229,0,0,Low Risk,Payment Processor,North America,Professional,13517.61
+INST_04824,0.19302280919412163,0,0,Low Risk,Credit Union,Europe,Professional,2082.13
+INST_04023,0.19184273366628343,0,0,Low Risk,Insurance Company,North America,Basic,21634.31
+INST_04429,0.1917356544301074,0,0,Low Risk,Insurance Company,Asia Pacific,Basic,16693.49
+INST_04702,0.19167680113789864,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,4328.2
+INST_04104,0.19011703969782437,0,0,Low Risk,Bank,North America,Professional,25822.5
+INST_04478,0.18879504230803906,0,0,Low Risk,Investment Firm,North America,Basic,500.0
+INST_04024,0.1884852635523063,0,1,Low Risk,Investment Firm,Europe,Professional,8662.03
+INST_04769,0.1883677808949176,0,0,Low Risk,Bank,North America,Basic,28840.24
+INST_04889,0.187903737486624,0,0,Low Risk,Investment Firm,North America,Enterprise,125884.52
+INST_04219,0.18777929654640985,0,0,Low Risk,Bank,North America,Professional,21812.34
+INST_04948,0.18767934687139057,0,0,Low Risk,Insurance Company,Europe,Professional,7743.46
+INST_04135,0.18729216836795615,0,0,Low Risk,Bank,Europe,Professional,2862.75
+INST_04311,0.18485439737637355,0,0,Low Risk,Payment Processor,North America,Professional,13048.57
+INST_04643,0.18485003523969126,0,0,Low Risk,Bank,North America,Professional,6117.2
+INST_04972,0.18461613699742185,0,0,Low Risk,Credit Union,Middle East,Basic,8971.27
+INST_04445,0.18413324835297604,0,0,Low Risk,Payment Processor,North America,Professional,4074.67
+INST_04637,0.18323202821667045,0,0,Low Risk,Investment Firm,North America,Professional,37227.04
+INST_04799,0.18253479566314265,0,0,Low Risk,Investment Firm,Latin America,Professional,4986.29
+INST_04305,0.18225553023667967,0,0,Low Risk,Bank,North America,Professional,262593.77
+INST_04337,0.1818388442095099,0,0,Low Risk,Payment Processor,Middle East,Enterprise,500.0
+INST_04755,0.18134143070859257,0,1,Low Risk,Payment Processor,North America,Professional,11414.02
+INST_04917,0.18101747858804795,0,0,Low Risk,Credit Union,North America,Professional,1718.13
+INST_04768,0.1809207221293217,0,0,Low Risk,Insurance Company,Middle East,Basic,3714.61
+INST_04693,0.18087105587110566,0,0,Low Risk,Credit Union,Asia Pacific,Professional,14158.59
+INST_04328,0.18008744825250095,0,0,Low Risk,Bank,North America,Basic,6468.94
+INST_04345,0.17942591859407903,0,0,Low Risk,Credit Union,Middle East,Basic,9084.1
+INST_04041,0.17859781799395857,0,0,Low Risk,Bank,North America,Basic,4740.17
+INST_04535,0.17788175734389902,0,0,Low Risk,Investment Firm,Europe,Basic,232709.06
+INST_04166,0.17671657242065902,0,0,Low Risk,Bank,Latin America,Professional,75581.38
+INST_04340,0.17491898962751926,0,0,Low Risk,Credit Union,Asia Pacific,Professional,32429.3
+INST_04062,0.17481756488716158,0,0,Low Risk,Insurance Company,Asia Pacific,Professional,22025.57
+INST_04551,0.17465080980543607,0,0,Low Risk,Bank,Latin America,Basic,6816.12
+INST_04760,0.17207827917826266,0,1,Low Risk,Credit Union,Latin America,Professional,4490.51
+INST_04453,0.171514065468609,0,1,Low Risk,Insurance Company,North America,Enterprise,7277.69
+INST_04775,0.17062906437851932,0,0,Low Risk,Insurance Company,Europe,Professional,3766.3
+INST_04474,0.168779725272056,0,0,Low Risk,Investment Firm,Latin America,Professional,6541.38
+INST_04999,0.1678439495059997,0,0,Low Risk,Investment Firm,North America,Basic,1185.71
+INST_04821,0.16740151716131393,0,0,Low Risk,Bank,Asia Pacific,Basic,500.0
+INST_04204,0.1658000792333289,0,0,Low Risk,Bank,Latin America,Enterprise,2703.57
+INST_04748,0.16551067897671018,0,0,Low Risk,Credit Union,North America,Basic,7419.54
+INST_04180,0.16526153383344966,0,0,Low Risk,Credit Union,Europe,Basic,18753.66
+INST_04504,0.16464242059904113,0,0,Low Risk,Credit Union,North America,Basic,50802.9
+INST_04781,0.16327046737341955,0,0,Low Risk,Bank,North America,Enterprise,3241.93
+INST_04942,0.1632340547274625,0,0,Low Risk,Insurance Company,North America,Basic,15480.27
+INST_04628,0.16314001472740414,0,0,Low Risk,Investment Firm,North America,Professional,702.66
+INST_04975,0.16281848465142276,0,0,Low Risk,Credit Union,North America,Professional,763.79
+INST_04788,0.16266998902810556,0,0,Low Risk,Credit Union,Europe,Basic,1512.93
+INST_04654,0.16262060791665683,0,0,Low Risk,Credit Union,Europe,Professional,23558.3
+INST_04673,0.1620060604677012,0,0,Low Risk,Bank,North America,Professional,18988.42
+INST_04869,0.16136529984126338,0,0,Low Risk,Insurance Company,North America,Professional,6498.92
+INST_04485,0.1605307008865327,0,0,Low Risk,Insurance Company,Europe,Professional,18725.03
+INST_04400,0.16032375208440505,0,0,Low Risk,Bank,Asia Pacific,Basic,26983.28
+INST_04278,0.159248250810455,0,0,Low Risk,Bank,North America,Professional,249719.42
+INST_04329,0.15901094018536185,0,1,Low Risk,Insurance Company,Asia Pacific,Basic,11733.82
+INST_04450,0.1588941390902702,0,0,Low Risk,Credit Union,Europe,Enterprise,5609.84
+INST_04323,0.15834045966862675,0,0,Low Risk,Credit Union,Europe,Professional,12013.17
+INST_04988,0.15828280901135833,0,0,Low Risk,Insurance Company,North America,Professional,903.86
+INST_04911,0.15791437332087413,0,0,Low Risk,Investment Firm,Latin America,Professional,11673.85
+INST_04073,0.15723142073646612,0,0,Low Risk,Investment Firm,Europe,Enterprise,38090.28
+INST_04708,0.1568296187442482,0,0,Low Risk,Insurance Company,North America,Basic,1897.68
+INST_04997,0.15660066212062457,0,0,Low Risk,Bank,Latin America,Basic,968.94
+INST_04218,0.15658421676684725,0,0,Low Risk,Investment Firm,Asia Pacific,Basic,76410.79
+INST_04036,0.1564118008756934,0,1,Low Risk,Payment Processor,North America,Basic,1603.07
+INST_04575,0.15574379944071715,0,0,Low Risk,Bank,North America,Professional,1292.61
+INST_04613,0.1554712943841105,0,0,Low Risk,Bank,North America,Professional,3773.41
+INST_04222,0.15542486982845957,0,0,Low Risk,Payment Processor,Europe,Professional,1135.4
+INST_04840,0.15538768398019476,0,0,Low Risk,Payment Processor,Latin America,Basic,1099.15
+INST_04226,0.15488145583553087,0,0,Low Risk,Credit Union,Europe,Professional,16679.49
+INST_04170,0.1542318628421777,0,0,Low Risk,Bank,North America,Professional,2711.95
+INST_04541,0.15421538550527095,0,0,Low Risk,Credit Union,North America,Professional,5507.8
+INST_04922,0.15269250605122583,0,0,Low Risk,Investment Firm,Europe,Enterprise,19066.42
+INST_04080,0.15208013558669378,0,0,Low Risk,Investment Firm,North America,Basic,9751.7
+INST_04197,0.15153411659080496,0,0,Low Risk,Bank,Middle East,Professional,7954.02
+INST_04424,0.15139821334620712,0,0,Low Risk,Bank,Latin America,Professional,70734.68
+INST_04573,0.15099639567442996,0,0,Low Risk,Insurance Company,North America,Enterprise,14469.43
+INST_04308,0.14947703375446564,0,1,Low Risk,Insurance Company,North America,Basic,10733.65
+INST_04996,0.14938322236774781,0,1,Low Risk,Bank,Latin America,Basic,4580.18
+INST_04146,0.1493503434569006,0,0,Low Risk,Bank,North America,Professional,42356.32
+INST_04875,0.1452173326059888,0,0,Low Risk,Investment Firm,North America,Professional,12399.73
+INST_04874,0.14497590379811795,0,1,Low Risk,Bank,Europe,Professional,123336.21
+INST_04676,0.1446627970456239,0,0,Low Risk,Bank,Latin America,Basic,1550.77
+INST_04365,0.1438387726133586,0,1,Low Risk,Investment Firm,Europe,Professional,2239.54
+INST_04546,0.14298047196235475,0,0,Low Risk,Bank,North America,Professional,32326.14
+INST_04058,0.1427422860298298,0,0,Low Risk,Payment Processor,North America,Professional,2624.38
+INST_04592,0.14242016673567467,0,1,Low Risk,Credit Union,Asia Pacific,Enterprise,12638.58
+INST_04881,0.14215169241405848,0,0,Low Risk,Credit Union,Europe,Basic,1344.87
+INST_04913,0.14205888031138192,0,0,Low Risk,Bank,Europe,Professional,12410.1
+INST_04798,0.14198415589834584,0,0,Low Risk,Bank,Europe,Professional,511.1
+INST_04473,0.14152505447646047,0,0,Low Risk,Credit Union,North America,Enterprise,500.0
+INST_04968,0.14114105452891865,0,1,Low Risk,Payment Processor,Asia Pacific,Professional,1022.08
+INST_04553,0.14036652586151882,0,0,Low Risk,Payment Processor,Europe,Enterprise,2542.65
+INST_04835,0.14029017101756316,0,0,Low Risk,Bank,North America,Professional,4300.09
+INST_04188,0.14004482521919695,0,0,Low Risk,Investment Firm,Middle East,Basic,6852.65
+INST_04159,0.1399712666380353,0,0,Low Risk,Investment Firm,Europe,Basic,500.0
+INST_04969,0.13991133932256533,0,0,Low Risk,Credit Union,North America,Professional,23296.15
+INST_04022,0.13944876290957403,0,0,Low Risk,Investment Firm,Europe,Professional,36598.19
+INST_04050,0.13932700290807382,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,10758.24
+INST_04370,0.13819719510330336,0,0,Low Risk,Bank,Asia Pacific,Enterprise,27839.6
+INST_04496,0.13809955576196498,0,0,Low Risk,Credit Union,Europe,Professional,7024.97
+INST_04846,0.1379673349904347,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,6584.03
+INST_04452,0.13794748072895824,0,0,Low Risk,Insurance Company,North America,Professional,2156.3
+INST_04916,0.13787307898266188,0,0,Low Risk,Bank,North America,Professional,1100.6
+INST_04689,0.13765580570637126,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,1483.94
+INST_04398,0.1375223385831475,0,1,Low Risk,Bank,Europe,Professional,19475.4
+INST_04434,0.13681460327265402,0,0,Low Risk,Bank,North America,Enterprise,7820.55
+INST_04454,0.13660340201409793,0,0,Low Risk,Payment Processor,Latin America,Professional,5780.05
+INST_04844,0.13537115341799713,0,0,Low Risk,Bank,North America,Professional,6478.67
+INST_04004,0.13416645232328014,0,0,Low Risk,Bank,Europe,Professional,82608.35
+INST_04300,0.13404513838341578,0,0,Low Risk,Bank,North America,Basic,3514.08
+INST_04153,0.13403595993727943,0,0,Low Risk,Credit Union,Europe,Basic,6685.64
+INST_04331,0.1338718845475626,0,1,Low Risk,Bank,Asia Pacific,Basic,13019.72
+INST_04980,0.13385081021959805,0,0,Low Risk,Payment Processor,North America,Basic,500.0
+INST_04294,0.13381264466437925,0,0,Low Risk,Credit Union,Latin America,Professional,11173.0
+INST_04640,0.1335516451134572,0,0,Low Risk,Payment Processor,Europe,Professional,3854.73
+INST_04665,0.13333205854477265,0,0,Low Risk,Insurance Company,Asia Pacific,Professional,3899.65
+INST_04293,0.1323120914221867,0,0,Low Risk,Payment Processor,Europe,Basic,1312.07
+INST_04127,0.1317701991176853,0,0,Low Risk,Payment Processor,Europe,Basic,8110.53
+INST_04296,0.1314250777600233,0,0,Low Risk,Bank,Latin America,Enterprise,5015.16
+INST_04595,0.1311629595262402,0,0,Low Risk,Investment Firm,North America,Enterprise,27372.23
+INST_04250,0.1308287100634381,0,0,Low Risk,Credit Union,North America,Basic,7741.2
+INST_04542,0.13082526667022154,0,1,Low Risk,Bank,North America,Basic,1430.45
+INST_04044,0.13060060134802748,0,1,Low Risk,Credit Union,Europe,Basic,28987.38
+INST_04954,0.13024381881568162,0,0,Low Risk,Credit Union,North America,Professional,12069.5
+INST_04859,0.1293961464220852,0,0,Low Risk,Payment Processor,North America,Enterprise,1130.69
+INST_04538,0.12926401208564461,0,0,Low Risk,Bank,North America,Enterprise,4707.73
+INST_04100,0.12881497280978732,0,0,Low Risk,Investment Firm,Europe,Professional,10327.99
+INST_04154,0.128799198337442,0,0,Low Risk,Bank,North America,Professional,2026.05
+INST_04526,0.12676569005426627,0,0,Low Risk,Insurance Company,Latin America,Professional,21603.76
+INST_04007,0.12667981531112338,0,0,Low Risk,Credit Union,Europe,Professional,4237.12
+INST_04561,0.1262633604138266,0,0,Low Risk,Bank,North America,Basic,35464.35
+INST_04963,0.12570995583790454,0,0,Low Risk,Insurance Company,Europe,Basic,2131.27
+INST_04726,0.1255517794704207,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,78539.37
+INST_04211,0.12479561202269801,0,0,Low Risk,Investment Firm,Latin America,Enterprise,3422.23
+INST_04097,0.12462431616295071,0,0,Low Risk,Bank,North America,Enterprise,7490.77
+INST_04178,0.12412444960190859,0,0,Low Risk,Bank,Europe,Basic,2668.58
+INST_04388,0.12338607467187637,0,0,Low Risk,Bank,Europe,Professional,500.0
+INST_04890,0.12282934582634132,0,0,Low Risk,Bank,Asia Pacific,Professional,500.0
+INST_04344,0.1225290596036233,0,0,Low Risk,Investment Firm,North America,Enterprise,14831.23
+INST_04680,0.12247538255375755,0,0,Low Risk,Bank,Europe,Professional,10821.92
+INST_04441,0.12197952668115399,0,0,Low Risk,Insurance Company,North America,Professional,5249.83
+INST_04901,0.12111685179837689,0,0,Low Risk,Credit Union,North America,Basic,13166.7
+INST_04812,0.12028846368283724,0,0,Low Risk,Bank,North America,Professional,48605.52
+INST_04832,0.11999021890796314,0,0,Low Risk,Investment Firm,North America,Enterprise,1821.63
+INST_04981,0.11953738611975138,0,0,Low Risk,Bank,Europe,Professional,2976.05
+INST_04057,0.11932615478144876,0,0,Low Risk,Bank,North America,Enterprise,1797.51
+INST_04307,0.11922963450520496,0,0,Low Risk,Investment Firm,Asia Pacific,Basic,5996.46
+INST_04457,0.11828839949550778,0,0,Low Risk,Bank,Latin America,Basic,16344.35
+INST_04147,0.11810513955752291,0,0,Low Risk,Credit Union,Europe,Basic,10686.24
+INST_04117,0.11804034169879288,0,0,Low Risk,Credit Union,Middle East,Basic,3118.31
+INST_04187,0.1178782990674556,0,0,Low Risk,Investment Firm,North America,Enterprise,33460.94
+INST_04959,0.117171650075992,0,0,Low Risk,Insurance Company,North America,Professional,11821.15
+INST_04937,0.116551364888826,0,0,Low Risk,Investment Firm,Asia Pacific,Enterprise,2669.11
+INST_04318,0.11606692028636995,0,0,Low Risk,Credit Union,Europe,Enterprise,3486.35
+INST_04845,0.11584273882668875,0,0,Low Risk,Credit Union,Europe,Professional,14581.62
+INST_04281,0.11580638361123638,0,0,Low Risk,Insurance Company,Latin America,Professional,19628.72
+INST_04494,0.11533220484408017,0,0,Low Risk,Insurance Company,Europe,Professional,10480.61
+INST_04276,0.11478185113132851,0,0,Low Risk,Credit Union,North America,Basic,2036.19
+INST_04290,0.11454626823148645,0,0,Low Risk,Credit Union,Europe,Professional,829.79
+INST_04392,0.11429284685066339,0,0,Low Risk,Investment Firm,North America,Basic,2883.26
+INST_04698,0.113671528450816,0,0,Low Risk,Bank,Europe,Basic,1437.89
+INST_04614,0.11337499409918714,0,0,Low Risk,Bank,Middle East,Professional,28506.13
+INST_04249,0.11264229716597503,0,0,Low Risk,Payment Processor,North America,Enterprise,2057.57
+INST_04055,0.11213717714745526,0,0,Low Risk,Bank,Middle East,Enterprise,6799.53
+INST_04602,0.11195856069515514,0,0,Low Risk,Payment Processor,North America,Basic,3798.74
+INST_04965,0.11082894267317302,0,1,Low Risk,Bank,Europe,Professional,2686.02
+INST_04208,0.11054540322611553,0,0,Low Risk,Bank,Asia Pacific,Enterprise,1501.34
+INST_04076,0.10975030008956368,0,0,Low Risk,Credit Union,Asia Pacific,Professional,4337.58
+INST_04209,0.10974402143752739,0,0,Low Risk,Bank,Europe,Basic,10290.09
+INST_04428,0.10940192823174177,0,0,Low Risk,Bank,Europe,Professional,7163.17
+INST_04140,0.10864114961070843,0,0,Low Risk,Bank,Europe,Professional,4655.38
+INST_04093,0.1083997123226139,0,0,Low Risk,Payment Processor,Asia Pacific,Enterprise,3538.69
+INST_04718,0.10790981324287224,0,0,Low Risk,Credit Union,North America,Basic,63517.13
+INST_04794,0.10751305623985953,0,0,Low Risk,Bank,Europe,Basic,315979.84
+INST_04164,0.10743855091911798,0,0,Low Risk,Investment Firm,Middle East,Professional,802.02
+INST_04184,0.1069597956295579,0,0,Low Risk,Bank,Asia Pacific,Professional,58088.49
+INST_04239,0.10662742753048036,0,0,Low Risk,Bank,Asia Pacific,Basic,102315.8
+INST_04105,0.10634137199971326,0,0,Low Risk,Investment Firm,North America,Basic,10910.14
+INST_04670,0.10619102290221477,0,0,Low Risk,Credit Union,Europe,Professional,2782.66
+INST_04964,0.10612505077707553,0,0,Low Risk,Credit Union,Europe,Professional,1007.0
+INST_04315,0.10575386829624617,0,0,Low Risk,Bank,North America,Professional,4877.38
+INST_04169,0.10457676063679937,0,0,Low Risk,Bank,North America,Professional,4826.83
+INST_04934,0.10436731496347987,0,0,Low Risk,Credit Union,North America,Basic,10561.74
+INST_04423,0.10388161341541385,0,0,Low Risk,Insurance Company,Europe,Basic,20874.32
+INST_04074,0.10361207271857578,0,0,Low Risk,Investment Firm,North America,Basic,6187.33
+INST_04915,0.10323496480967155,0,0,Low Risk,Payment Processor,Latin America,Basic,500.0
+INST_04550,0.10210563177378595,0,0,Low Risk,Payment Processor,North America,Professional,5706.16
+INST_04847,0.10193266879021323,0,0,Low Risk,Bank,North America,Enterprise,5018.44
+INST_04675,0.1014908135948838,0,0,Low Risk,Payment Processor,Europe,Basic,4480.17
+INST_04254,0.10146745435343392,0,0,Low Risk,Bank,Asia Pacific,Enterprise,81510.47
+INST_04816,0.10125554339171426,0,0,Low Risk,Payment Processor,Europe,Professional,1968.45
+INST_04280,0.10124444998325932,0,0,Low Risk,Bank,Europe,Enterprise,18204.7
+INST_04190,0.0996587217531722,0,0,Low Risk,Insurance Company,Latin America,Professional,5009.19
+INST_04339,0.09892657681608291,0,0,Low Risk,Bank,Europe,Professional,21865.08
+INST_04189,0.09853981363053527,0,0,Low Risk,Insurance Company,Asia Pacific,Professional,16669.67
+INST_04958,0.09840937666142947,0,0,Low Risk,Bank,Asia Pacific,Professional,10996.74
+INST_04642,0.09817897961090269,0,0,Low Risk,Payment Processor,North America,Professional,30578.9
+INST_04984,0.09776737502375403,0,0,Low Risk,Investment Firm,Latin America,Professional,3483.39
+INST_04317,0.09772260766967439,0,0,Low Risk,Bank,North America,Basic,1008.23
+INST_04387,0.09769892117478643,0,0,Low Risk,Bank,North America,Professional,4809.02
+INST_04016,0.09760365532407242,0,0,Low Risk,Payment Processor,North America,Enterprise,6087.88
+INST_04252,0.0969695890808116,0,0,Low Risk,Bank,North America,Professional,1212.75
+INST_04995,0.0968225103455704,0,0,Low Risk,Payment Processor,Latin America,Professional,4596.92
+INST_04572,0.09671997022471507,0,0,Low Risk,Bank,North America,Professional,2871.15
+INST_04842,0.09343762542024353,0,0,Low Risk,Credit Union,North America,Basic,13094.41
+INST_04898,0.09166841011234814,0,0,Low Risk,Bank,Asia Pacific,Basic,9926.64
+INST_04584,0.09110339281819439,0,0,Low Risk,Investment Firm,Latin America,Professional,1680.99
+INST_04083,0.09090677759402287,0,0,Low Risk,Insurance Company,Asia Pacific,Basic,1449.21
+INST_04172,0.09073457068580311,0,0,Low Risk,Credit Union,North America,Professional,34454.93
+INST_04438,0.09050506167545097,0,1,Low Risk,Payment Processor,North America,Professional,92779.61
+INST_04685,0.08973945312440598,0,0,Low Risk,Credit Union,Europe,Basic,16977.57
+INST_04530,0.08937310030323023,0,0,Low Risk,Bank,North America,Professional,29570.14
+INST_04624,0.08926920045388367,0,0,Low Risk,Payment Processor,North America,Professional,1271.2
+INST_04008,0.08915998744796162,0,0,Low Risk,Investment Firm,Europe,Professional,1686.0
+INST_04264,0.08911228738094033,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,3293.04
+INST_04860,0.08811612079607055,0,0,Low Risk,Investment Firm,Asia Pacific,Basic,2312.62
+INST_04939,0.08811419428527346,0,0,Low Risk,Insurance Company,Asia Pacific,Professional,1328.58
+INST_04503,0.08742623530342282,0,0,Low Risk,Bank,Latin America,Professional,27432.96
+INST_04500,0.08683772473358753,0,0,Low Risk,Investment Firm,Europe,Professional,1000.79
+INST_04482,0.08628189064603015,0,0,Low Risk,Investment Firm,Europe,Basic,12703.61
+INST_04649,0.08481241376523033,0,1,Low Risk,Bank,North America,Professional,24402.5
+INST_04836,0.0837319617282437,0,0,Low Risk,Credit Union,Latin America,Professional,9606.23
+INST_04027,0.08362155432179459,0,0,Low Risk,Bank,North America,Basic,2201.5
+INST_04961,0.08331616222741253,0,0,Low Risk,Bank,Europe,Professional,5934.3
+INST_04805,0.08287840933164112,0,0,Low Risk,Credit Union,Asia Pacific,Professional,36042.07
+INST_04174,0.08267354784756542,0,0,Low Risk,Payment Processor,North America,Enterprise,12990.0
+INST_04287,0.0822081778659766,0,0,Low Risk,Investment Firm,Asia Pacific,Enterprise,4929.86
+INST_04993,0.08136069882606885,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,1207.52
+INST_04807,0.08130015375205282,0,0,Low Risk,Payment Processor,Europe,Enterprise,3449.18
+INST_04330,0.08108852996482527,0,0,Low Risk,Bank,Asia Pacific,Basic,5904.71
+INST_04740,0.08092250066498977,0,0,Low Risk,Insurance Company,North America,Enterprise,7910.01
+INST_04594,0.08045288488021445,0,0,Low Risk,Credit Union,North America,Professional,35916.24
+INST_04245,0.08043806917508606,0,0,Low Risk,Payment Processor,Latin America,Basic,21197.41
+INST_04704,0.07867138615434338,0,0,Low Risk,Credit Union,North America,Enterprise,3769.25
+INST_04075,0.0784768842755288,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,68833.19
+INST_04674,0.07780500970619095,0,1,Low Risk,Credit Union,North America,Basic,9329.74
+INST_04025,0.07766905487556787,0,0,Low Risk,Insurance Company,North America,Professional,19512.12
+INST_04764,0.07601416834988842,0,1,Low Risk,Credit Union,Latin America,Enterprise,5460.61
+INST_04763,0.0758973380945768,0,0,Low Risk,Bank,Latin America,Professional,30858.88
+INST_04684,0.07586835934347501,0,0,Low Risk,Insurance Company,Europe,Professional,3057.06
+INST_04506,0.07540342595997343,0,0,Low Risk,Insurance Company,North America,Enterprise,11769.87
+INST_04185,0.0748043637222578,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,7211.37
+INST_04547,0.07467966321908777,0,0,Low Risk,Investment Firm,North America,Professional,6351.49
+INST_04288,0.07456802332390865,0,0,Low Risk,Bank,Europe,Professional,3985.71
+INST_04413,0.07451314743694167,0,0,Low Risk,Investment Firm,North America,Basic,1527.92
+INST_04921,0.07411237648248073,0,0,Low Risk,Insurance Company,Latin America,Enterprise,95130.45
+INST_04442,0.07397483221406284,0,1,Low Risk,Bank,North America,Basic,3768.15
+INST_04493,0.07353423908537583,0,0,Low Risk,Insurance Company,North America,Basic,10919.6
+INST_04902,0.07335103457443445,0,0,Low Risk,Bank,North America,Basic,14259.79
+INST_04791,0.07312149311272337,0,0,Low Risk,Payment Processor,Europe,Professional,1021.75
+INST_04367,0.07282560386422396,0,0,Low Risk,Credit Union,Asia Pacific,Professional,20658.31
+INST_04574,0.07243655536126126,0,0,Low Risk,Insurance Company,North America,Professional,15408.6
+INST_04096,0.07231601329470276,0,0,Low Risk,Bank,North America,Professional,6055.74
+INST_04229,0.07188231585859974,0,0,Low Risk,Bank,Asia Pacific,Basic,22450.18
+INST_04576,0.0717259518642869,0,0,Low Risk,Credit Union,Asia Pacific,Enterprise,1918.14
+INST_04048,0.07158560460660263,0,0,Low Risk,Payment Processor,Middle East,Enterprise,12426.6
+INST_04356,0.07097718605964039,0,0,Low Risk,Bank,Asia Pacific,Enterprise,500.0
+INST_04761,0.07056967716413472,0,0,Low Risk,Payment Processor,North America,Enterprise,500.0
+INST_04555,0.07017323074549614,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,9656.2
+INST_04549,0.0700904597516419,0,0,Low Risk,Insurance Company,Middle East,Professional,2853.85
+INST_04145,0.06981219417982625,0,0,Low Risk,Investment Firm,Europe,Professional,2278.52
+INST_04087,0.0697394709827498,0,0,Low Risk,Investment Firm,Middle East,Basic,5659.98
+INST_04709,0.06961204941834848,0,0,Low Risk,Investment Firm,Europe,Basic,7500.6
+INST_04789,0.06918044645424509,0,0,Low Risk,Bank,North America,Enterprise,36487.86
+INST_04732,0.0688265202443227,0,1,Low Risk,Insurance Company,Europe,Basic,21329.28
+INST_04983,0.06866261831396483,0,0,Low Risk,Insurance Company,Latin America,Professional,56692.81
+INST_04765,0.06827219386269684,0,0,Low Risk,Payment Processor,North America,Professional,14512.09
+INST_04488,0.06803619558849565,0,0,Low Risk,Insurance Company,North America,Basic,906.79
+INST_04258,0.06780113253418238,0,0,Low Risk,Credit Union,Asia Pacific,Basic,73085.15
+INST_04525,0.06727392841681884,0,0,Low Risk,Credit Union,Europe,Professional,4612.78
+INST_04128,0.0667992559588326,0,0,Low Risk,Bank,Asia Pacific,Professional,7117.67
+INST_04759,0.06674130019140329,0,0,Low Risk,Payment Processor,Europe,Basic,1094.22
+INST_04531,0.06666502179325415,0,0,Low Risk,Bank,Latin America,Enterprise,13161.4
+INST_04571,0.0664152992616186,0,0,Low Risk,Investment Firm,North America,Enterprise,3485.94
+INST_04868,0.06615063826076444,0,0,Low Risk,Investment Firm,Latin America,Basic,500.0
+INST_04376,0.06597730692504047,0,0,Low Risk,Credit Union,Asia Pacific,Enterprise,500.0
+INST_04353,0.06592480086111269,0,0,Low Risk,Payment Processor,North America,Professional,20455.71
+INST_04348,0.06576539595901865,0,0,Low Risk,Insurance Company,Asia Pacific,Basic,21823.22
+INST_04825,0.06567208778221105,0,0,Low Risk,Bank,Asia Pacific,Basic,1361.72
+INST_04896,0.06538658929438831,0,0,Low Risk,Bank,Asia Pacific,Professional,1446.11
+INST_04498,0.065382836449378,0,0,Low Risk,Bank,Middle East,Professional,1166.95
+INST_04536,0.06493692122551122,0,0,Low Risk,Credit Union,Europe,Professional,10852.91
+INST_04540,0.06471740905940723,0,0,Low Risk,Bank,North America,Professional,3301.01
+INST_04716,0.06406796653768045,0,0,Low Risk,Investment Firm,North America,Enterprise,1658.51
+INST_04780,0.06401630245192536,0,0,Low Risk,Bank,North America,Enterprise,1408.96
+INST_04157,0.06370896461838706,0,0,Low Risk,Payment Processor,Europe,Professional,4160.61
+INST_04991,0.06323365628069498,0,0,Low Risk,Investment Firm,North America,Professional,5264.31
+INST_04240,0.06292801546074982,0,1,Low Risk,Investment Firm,North America,Enterprise,6960.82
+INST_04213,0.06265299839355012,0,0,Low Risk,Bank,Europe,Enterprise,500.0
+INST_04355,0.06248787824827346,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,3645.47
+INST_04006,0.06200754432852233,0,0,Low Risk,Credit Union,North America,Professional,3589.96
+INST_04126,0.062002716288910215,0,0,Low Risk,Investment Firm,Europe,Professional,500.0
+INST_04059,0.06183501687039819,0,0,Low Risk,Payment Processor,North America,Enterprise,6595.52
+INST_04119,0.060429069259000066,0,0,Low Risk,Insurance Company,Latin America,Basic,2183.4
+INST_04040,0.06031032682453163,0,0,Low Risk,Payment Processor,North America,Basic,1072.8
+INST_04957,0.060167133219808065,0,0,Low Risk,Investment Firm,Asia Pacific,Enterprise,3779.61
+INST_04977,0.059714138278793606,0,0,Low Risk,Bank,Asia Pacific,Basic,1256.65
+INST_04490,0.059708692399073275,0,0,Low Risk,Bank,Europe,Enterprise,29099.4
+INST_04871,0.05804524046885396,0,0,Low Risk,Bank,Europe,Professional,500.0
+INST_04793,0.05791584045842803,0,0,Low Risk,Bank,North America,Professional,8303.66
+INST_04292,0.05728698574663459,0,1,Low Risk,Investment Firm,Europe,Basic,3568.6
+INST_04919,0.057203316736308664,0,1,Low Risk,Bank,Europe,Professional,5821.91
+INST_04098,0.057086645677144984,0,0,Low Risk,Bank,Latin America,Professional,113536.54
+INST_04801,0.05706846336164147,0,0,Low Risk,Bank,North America,Enterprise,1880.63
+INST_04591,0.05685840774460061,0,0,Low Risk,Bank,North America,Enterprise,21280.13
+INST_04082,0.05673691453474567,0,0,Low Risk,Investment Firm,North America,Enterprise,2837.62
+INST_04483,0.054703408401677776,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,850.82
+INST_04953,0.05447491481277122,0,0,Low Risk,Investment Firm,North America,Professional,1223.73
+INST_04181,0.05395512580467585,0,0,Low Risk,Investment Firm,Europe,Professional,21482.23
+INST_04444,0.053861899110395815,0,0,Low Risk,Credit Union,Europe,Professional,11734.77
+INST_04408,0.05279875841006115,0,0,Low Risk,Credit Union,North America,Enterprise,5586.62
+INST_04182,0.052533758601520514,0,0,Low Risk,Investment Firm,North America,Enterprise,500.0
+INST_04171,0.051852241571830236,0,0,Low Risk,Payment Processor,Latin America,Basic,4784.2
+INST_04015,0.05174463932983687,0,0,Low Risk,Bank,North America,Basic,26656.22
+INST_04469,0.05136004047909019,0,0,Low Risk,Payment Processor,North America,Basic,6083.01
+INST_04475,0.049895303642357315,0,0,Low Risk,Credit Union,Asia Pacific,Professional,10658.24
+INST_04242,0.04874608325843646,0,0,Low Risk,Insurance Company,Asia Pacific,Enterprise,2592.62
+INST_04557,0.0486616007588481,0,0,Low Risk,Investment Firm,Europe,Professional,500.0
+INST_04111,0.04744244247378198,0,0,Low Risk,Credit Union,Europe,Professional,3714.25
+INST_04064,0.04727985264523819,0,0,Low Risk,Payment Processor,Europe,Professional,18903.85
+INST_04491,0.04668283746738672,0,0,Low Risk,Investment Firm,North America,Professional,40440.84
+INST_04967,0.04624502780436024,0,0,Low Risk,Insurance Company,North America,Professional,54304.81
+INST_04191,0.04550505666943414,0,0,Low Risk,Payment Processor,North America,Basic,4544.84
+INST_04562,0.04520915007714775,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,500.0
+INST_04715,0.04376216232453682,0,0,Low Risk,Bank,Europe,Basic,7925.62
+INST_04168,0.04374717112848178,0,0,Low Risk,Bank,North America,Basic,2511.98
+INST_04567,0.04374263499240087,0,0,Low Risk,Bank,Latin America,Enterprise,3565.26
+INST_04236,0.04357810194516745,0,0,Low Risk,Bank,North America,Enterprise,32286.14
+INST_04884,0.04264652201979281,0,0,Low Risk,Bank,North America,Professional,28304.92
+INST_04998,0.042352707807000504,0,0,Low Risk,Insurance Company,North America,Professional,12839.5
+INST_04386,0.041962409576198484,0,0,Low Risk,Payment Processor,Latin America,Enterprise,500.0
+INST_04138,0.041796135649180916,0,0,Low Risk,Investment Firm,Europe,Professional,2785.23
+INST_04001,0.041441099793104924,0,0,Low Risk,Insurance Company,Europe,Basic,2451.91
+INST_04603,0.04035220006288415,0,0,Low Risk,Credit Union,North America,Basic,1922.48
+INST_04396,0.04026042894743364,0,0,Low Risk,Bank,North America,Enterprise,23929.28
+INST_04011,0.03910995054471633,0,0,Low Risk,Credit Union,North America,Enterprise,2342.68
+INST_04430,0.03852950790539133,0,0,Low Risk,Investment Firm,Asia Pacific,Enterprise,1325.98
+INST_04621,0.03827029358714024,0,0,Low Risk,Insurance Company,North America,Professional,15428.79
+INST_04420,0.03787143085936445,0,0,Low Risk,Bank,Latin America,Enterprise,174641.26
+INST_04463,0.037239902759075696,0,0,Low Risk,Bank,Europe,Basic,1649.08
+INST_04026,0.036567570703537854,0,0,Low Risk,Credit Union,Europe,Professional,86815.99
+INST_04695,0.03653791244826313,0,0,Low Risk,Payment Processor,Europe,Professional,17626.87
+INST_04629,0.03551746977555233,0,0,Low Risk,Credit Union,North America,Basic,25454.7
+INST_04183,0.034156588148767965,0,0,Low Risk,Bank,Asia Pacific,Professional,18663.51
+INST_04888,0.03397556502842283,0,0,Low Risk,Bank,North America,Enterprise,7416.91
+INST_04569,0.033585264346798774,0,0,Low Risk,Payment Processor,Asia Pacific,Professional,10753.01
+INST_04777,0.032266074491959264,0,0,Low Risk,Bank,Middle East,Basic,23414.93
+INST_04312,0.03220082080041351,0,0,Low Risk,Bank,Asia Pacific,Professional,6258.85
+INST_04357,0.031661689460988705,0,0,Low Risk,Investment Firm,North America,Professional,4330.33
+INST_04139,0.03164818137699923,0,1,Low Risk,Investment Firm,Europe,Professional,1276.43
+INST_04201,0.030615639448835587,0,1,Low Risk,Bank,Europe,Enterprise,2076.99
+INST_04533,0.030543061626836784,0,0,Low Risk,Bank,Asia Pacific,Professional,9266.06
+INST_04878,0.030134808974315683,0,0,Low Risk,Credit Union,Asia Pacific,Professional,1594.68
+INST_04912,0.030021166273606802,0,0,Low Risk,Credit Union,North America,Professional,24562.23
+INST_04855,0.02971115583668775,0,0,Low Risk,Bank,Europe,Enterprise,6314.7
+INST_04402,0.029453360896377286,0,0,Low Risk,Bank,Europe,Basic,3468.27
+INST_04471,0.029172092913476978,0,0,Low Risk,Payment Processor,Asia Pacific,Enterprise,11178.82
+INST_04804,0.028881112230306587,0,0,Low Risk,Insurance Company,Europe,Basic,23994.8
+INST_04848,0.028849403478096468,0,0,Low Risk,Insurance Company,Europe,Professional,14805.3
+INST_04664,0.02835512888833212,0,0,Low Risk,Insurance Company,North America,Basic,500.0
+INST_04198,0.025328543684015895,0,0,Low Risk,Credit Union,Asia Pacific,Professional,44902.18
+INST_04529,0.025304570026464735,0,0,Low Risk,Bank,Latin America,Professional,8599.26
+INST_04586,0.023326620151455747,0,0,Low Risk,Credit Union,North America,Enterprise,4333.68
+INST_04690,0.01878136092505407,0,0,Low Risk,Credit Union,Middle East,Enterprise,20334.21
+INST_04010,0.01860317807829953,0,0,Low Risk,Bank,North America,Enterprise,19264.97
+INST_04403,0.016968735042422103,0,0,Low Risk,Credit Union,North America,Professional,18817.29
+INST_04214,0.01578484451975302,0,0,Low Risk,Investment Firm,North America,Professional,56800.51
+INST_04873,0.015604268980970391,0,0,Low Risk,Bank,North America,Professional,500.0
+INST_04244,0.014606071072026933,0,0,Low Risk,Credit Union,Europe,Professional,3671.57
+INST_04042,0.012761633875106928,0,0,Low Risk,Credit Union,Middle East,Professional,35708.26
+INST_04134,0.012741082723272519,0,0,Low Risk,Investment Firm,Asia Pacific,Professional,24647.8
+INST_04081,0.012551101521689758,0,0,Low Risk,Bank,Europe,Enterprise,22902.99
+INST_04194,0.012195681414228755,0,0,Low Risk,Investment Firm,Asia Pacific,Basic,83306.78
+INST_04992,0.008155252046600288,0,0,Low Risk,Bank,Europe,Basic,3956.78
+INST_04666,0.0052455607476635515,0,0,Low Risk,Bank,North America,Basic,11198.08
+INST_04106,0.0,0,0,,Payment Processor,North America,Professional,31344.91

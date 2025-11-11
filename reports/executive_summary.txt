@@ -1,0 +1,36 @@
+============================================================
+CUSTOMER CHURN PREDICTION - EXECUTIVE SUMMARY
+============================================================
+
+MODEL PERFORMANCE:
+  - Model Type: RANDOM_FOREST
+  - Accuracy: 75.90%
+  - Precision: 60.38%
+  - Recall: 44.91%
+  - F1 Score: 51.51%
+  - ROC AUC: 80.29%
+
+PREDICTION RESULTS:
+  - True Positives: 128 (correctly identified churners)
+  - False Positives: 84 (false alarms)
+  - False Negatives: 157 (missed churners)
+  - True Negatives: 631 (correctly identified retentions)
+
+RISK ANALYSIS:
+  - Critical Risk: 40 customers (4.0%)
+  - High Risk: 172 customers (17.2%)
+  - Medium Risk: 238 customers (23.8%)
+  - Low Risk: 549 customers (54.9%)
+
+AT-RISK REVENUE:
+  - High/Critical risk customers: 212
+  - Monthly revenue at risk: $3,220,314.41
+
+KEY RECOMMENDATIONS:
+  1. Prioritize outreach to Critical and High Risk customers
+  2. Implement retention campaigns for Medium Risk customers
+  3. Focus on improving engagement metrics (login frequency, feature adoption)
+  4. Address payment issues proactively
+  5. Strengthen customer relationships near contract renewal dates
+
+============================================================
