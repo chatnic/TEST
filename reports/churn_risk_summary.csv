@@ -1,0 +1,5 @@
+risk_category,num_customers,avg_churn_prob,total_revenue
+Low Risk,549,0.15,8521813.52
+Medium Risk,238,0.39,3291282.73
+High Risk,172,0.59,2565711.39
+Critical Risk,40,0.76,654603.02
